@@ -1,0 +1,85 @@
+id,source_number,question,topic,template_id,action_verb,bloom_level,bloom_level_id,group_id,is_duplicate,n_copies,split
+DM001,1,State the definition of a key concept from propositional logic.,propositional logic,T1,state,Remember,1,G01,0,11,train
+DM007,7,State the definition of a key concept from graph theory.,graph theory,T1,state,Remember,1,G07,0,11,validation
+DM013,13,State the definition of a key concept from finite automata.,finite automata,T1,state,Remember,1,G13,0,11,train
+DM019,19,State the definition of a key concept from set theory.,set theory,T1,state,Remember,1,G19,0,11,train
+DM025,25,State the definition of a key concept from Boolean algebra.,Boolean algebra,T1,state,Remember,1,G25,0,10,train
+DM031,31,State the definition of a key concept from equivalence relations.,equivalence relations,T1,state,Remember,1,G31,0,10,train
+DM037,37,State the definition of a key concept from functions.,functions,T1,state,Remember,1,G37,0,10,train
+DM043,43,State the definition of a key concept from number theory.,number theory,T1,state,Remember,1,G43,0,10,test
+DM049,49,State the definition of a key concept from propositional logic.,propositional logic,T1,state,Remember,1,G01,1,11,train
+DM055,55,State the definition of a key concept from graph theory.,graph theory,T1,state,Remember,1,G07,1,11,validation
+DM061,61,State the definition of a key concept from finite automata.,finite automata,T1,state,Remember,1,G13,1,11,train
+DM067,67,State the definition of a key concept from set theory.,set theory,T1,state,Remember,1,G19,1,11,train
+DM073,73,State the definition of a key concept from Boolean algebra.,Boolean algebra,T1,state,Remember,1,G25,1,10,train
+DM079,79,State the definition of a key concept from equivalence relations.,equivalence relations,T1,state,Remember,1,G31,1,10,train
+DM085,85,State the definition of a key concept from functions.,functions,T1,state,Remember,1,G37,1,10,train
+DM091,91,State the definition of a key concept from number theory.,number theory,T1,state,Remember,1,G43,1,10,test
+DM097,97,State the definition of a key concept from propositional logic.,propositional logic,T1,state,Remember,1,G01,1,11,train
+DM103,103,State the definition of a key concept from graph theory.,graph theory,T1,state,Remember,1,G07,1,11,validation
+DM109,109,State the definition of a key concept from finite automata.,finite automata,T1,state,Remember,1,G13,1,11,train
+DM115,115,State the definition of a key concept from set theory.,set theory,T1,state,Remember,1,G19,1,11,train
+DM121,121,State the definition of a key concept from Boolean algebra.,Boolean algebra,T1,state,Remember,1,G25,1,10,train
+DM127,127,State the definition of a key concept from equivalence relations.,equivalence relations,T1,state,Remember,1,G31,1,10,train
+DM133,133,State the definition of a key concept from functions.,functions,T1,state,Remember,1,G37,1,10,train
+DM139,139,State the definition of a key concept from number theory.,number theory,T1,state,Remember,1,G43,1,10,test
+DM145,145,State the definition of a key concept from propositional logic.,propositional logic,T1,state,Remember,1,G01,1,11,train
+DM151,151,State the definition of a key concept from graph theory.,graph theory,T1,state,Remember,1,G07,1,11,validation
+DM157,157,State the definition of a key concept from finite automata.,finite automata,T1,state,Remember,1,G13,1,11,train
+DM163,163,State the definition of a key concept from set theory.,set theory,T1,state,Remember,1,G19,1,11,train
+DM169,169,State the definition of a key concept from Boolean algebra.,Boolean algebra,T1,state,Remember,1,G25,1,10,train
+DM175,175,State the definition of a key concept from equivalence relations.,equivalence relations,T1,state,Remember,1,G31,1,10,train
+DM181,181,State the definition of a key concept from functions.,functions,T1,state,Remember,1,G37,1,10,train
+DM187,187,State the definition of a key concept from number theory.,number theory,T1,state,Remember,1,G43,1,10,test
+DM193,193,State the definition of a key concept from propositional logic.,propositional logic,T1,state,Remember,1,G01,1,11,train
+DM199,199,State the definition of a key concept from graph theory.,graph theory,T1,state,Remember,1,G07,1,11,validation
+DM205,205,State the definition of a key concept from finite automata.,finite automata,T1,state,Remember,1,G13,1,11,train
+DM211,211,State the definition of a key concept from set theory.,set theory,T1,state,Remember,1,G19,1,11,train
+DM217,217,State the definition of a key concept from Boolean algebra.,Boolean algebra,T1,state,Remember,1,G25,1,10,train
+DM223,223,State the definition of a key concept from equivalence relations.,equivalence relations,T1,state,Remember,1,G31,1,10,train
+DM229,229,State the definition of a key concept from functions.,functions,T1,state,Remember,1,G37,1,10,train
+DM235,235,State the definition of a key concept from number theory.,number theory,T1,state,Remember,1,G43,1,10,test
+DM241,241,State the definition of a key concept from propositional logic.,propositional logic,T1,state,Remember,1,G01,1,11,train
+DM247,247,State the definition of a key concept from graph theory.,graph theory,T1,state,Remember,1,G07,1,11,validation
+DM253,253,State the definition of a key concept from finite automata.,finite automata,T1,state,Remember,1,G13,1,11,train
+DM259,259,State the definition of a key concept from set theory.,set theory,T1,state,Remember,1,G19,1,11,train
+DM265,265,State the definition of a key concept from Boolean algebra.,Boolean algebra,T1,state,Remember,1,G25,1,10,train
+DM271,271,State the definition of a key concept from equivalence relations.,equivalence relations,T1,state,Remember,1,G31,1,10,train
+DM277,277,State the definition of a key concept from functions.,functions,T1,state,Remember,1,G37,1,10,train
+DM283,283,State the definition of a key concept from number theory.,number theory,T1,state,Remember,1,G43,1,10,test
+DM289,289,State the definition of a key concept from propositional logic.,propositional logic,T1,state,Remember,1,G01,1,11,train
+DM295,295,State the definition of a key concept from graph theory.,graph theory,T1,state,Remember,1,G07,1,11,validation
+DM301,301,State the definition of a key concept from finite automata.,finite automata,T1,state,Remember,1,G13,1,11,train
+DM307,307,State the definition of a key concept from set theory.,set theory,T1,state,Remember,1,G19,1,11,train
+DM313,313,State the definition of a key concept from Boolean algebra.,Boolean algebra,T1,state,Remember,1,G25,1,10,train
+DM319,319,State the definition of a key concept from equivalence relations.,equivalence relations,T1,state,Remember,1,G31,1,10,train
+DM325,325,State the definition of a key concept from functions.,functions,T1,state,Remember,1,G37,1,10,train
+DM331,331,State the definition of a key concept from number theory.,number theory,T1,state,Remember,1,G43,1,10,test
+DM337,337,State the definition of a key concept from propositional logic.,propositional logic,T1,state,Remember,1,G01,1,11,train
+DM343,343,State the definition of a key concept from graph theory.,graph theory,T1,state,Remember,1,G07,1,11,validation
+DM349,349,State the definition of a key concept from finite automata.,finite automata,T1,state,Remember,1,G13,1,11,train
+DM355,355,State the definition of a key concept from set theory.,set theory,T1,state,Remember,1,G19,1,11,train
+DM361,361,State the definition of a key concept from Boolean algebra.,Boolean algebra,T1,state,Remember,1,G25,1,10,train
+DM367,367,State the definition of a key concept from equivalence relations.,equivalence relations,T1,state,Remember,1,G31,1,10,train
+DM373,373,State the definition of a key concept from functions.,functions,T1,state,Remember,1,G37,1,10,train
+DM379,379,State the definition of a key concept from number theory.,number theory,T1,state,Remember,1,G43,1,10,test
+DM385,385,State the definition of a key concept from propositional logic.,propositional logic,T1,state,Remember,1,G01,1,11,train
+DM391,391,State the definition of a key concept from graph theory.,graph theory,T1,state,Remember,1,G07,1,11,validation
+DM397,397,State the definition of a key concept from finite automata.,finite automata,T1,state,Remember,1,G13,1,11,train
+DM403,403,State the definition of a key concept from set theory.,set theory,T1,state,Remember,1,G19,1,11,train
+DM409,409,State the definition of a key concept from Boolean algebra.,Boolean algebra,T1,state,Remember,1,G25,1,10,train
+DM415,415,State the definition of a key concept from equivalence relations.,equivalence relations,T1,state,Remember,1,G31,1,10,train
+DM421,421,State the definition of a key concept from functions.,functions,T1,state,Remember,1,G37,1,10,train
+DM427,427,State the definition of a key concept from number theory.,number theory,T1,state,Remember,1,G43,1,10,test
+DM433,433,State the definition of a key concept from propositional logic.,propositional logic,T1,state,Remember,1,G01,1,11,train
+DM439,439,State the definition of a key concept from graph theory.,graph theory,T1,state,Remember,1,G07,1,11,validation
+DM445,445,State the definition of a key concept from finite automata.,finite automata,T1,state,Remember,1,G13,1,11,train
+DM451,451,State the definition of a key concept from set theory.,set theory,T1,state,Remember,1,G19,1,11,train
+DM457,457,State the definition of a key concept from Boolean algebra.,Boolean algebra,T1,state,Remember,1,G25,1,10,train
+DM463,463,State the definition of a key concept from equivalence relations.,equivalence relations,T1,state,Remember,1,G31,1,10,train
+DM469,469,State the definition of a key concept from functions.,functions,T1,state,Remember,1,G37,1,10,train
+DM475,475,State the definition of a key concept from number theory.,number theory,T1,state,Remember,1,G43,1,10,test
+DM481,481,State the definition of a key concept from propositional logic.,propositional logic,T1,state,Remember,1,G01,1,11,train
+DM487,487,State the definition of a key concept from graph theory.,graph theory,T1,state,Remember,1,G07,1,11,validation
+DM493,493,State the definition of a key concept from finite automata.,finite automata,T1,state,Remember,1,G13,1,11,train
+DM499,499,State the definition of a key concept from set theory.,set theory,T1,state,Remember,1,G19,1,11,train

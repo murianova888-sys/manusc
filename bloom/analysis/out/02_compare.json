@@ -1,0 +1,79 @@
+{
+  "comparison": [
+    {
+      "dataset": "Template 500",
+      "n": 500,
+      "unique_questions": 48,
+      "unique_first_words": 6,
+      "topic_level_cells_filled": 48,
+      "topic_level_cells_total": 96,
+      "leak_first_word": 1.0,
+      "leak_topic": 0.352,
+      "NMI_first_word": 1.0,
+      "NMI_topic": 0.3874,
+      "mean_words": 9.9,
+      "sd_words": 2.4,
+      "specificity": 0.0,
+      "type_token_ratio": 0.0139,
+      "inter_level_tfidf_similarity": 0.0763,
+      "top5_first_words": {
+        "state": 84,
+        "explain": 84,
+        "solve": 83,
+        "analyze": 83,
+        "determine": 83
+      }
+    },
+    {
+      "dataset": "LLM 480",
+      "n": 480,
+      "unique_questions": 480,
+      "unique_first_words": 61,
+      "topic_level_cells_filled": 96,
+      "topic_level_cells_total": 96,
+      "leak_first_word": 0.9625,
+      "leak_topic": 0.1667,
+      "NMI_first_word": 0.9514,
+      "NMI_topic": 0.0,
+      "mean_words": 16.6,
+      "sd_words": 6.4,
+      "specificity": 0.4417,
+      "type_token_ratio": 0.2578,
+      "inter_level_tfidf_similarity": 0.4599,
+      "top5_first_words": {
+        "explain": 43,
+        "a": 24,
+        "define": 17,
+        "state": 17,
+        "what": 17
+      }
+    }
+  ],
+  "length_analysis": {
+    "anova_F": 88.698,
+    "anova_p": 9.86e-66,
+    "eta2": 0.4834,
+    "kruskal_H": 243.772,
+    "kruskal_p": 1.19e-50,
+    "spearman_rho": 0.61,
+    "spearman_p": 3.15e-50,
+    "mean_words_by_level": {
+      "Remember": 8.4,
+      "Understand": 13.6,
+      "Apply": 17.1,
+      "Analyze": 21.7,
+      "Evaluate": 20.1,
+      "Create": 18.7
+    },
+    "topic_level_chi2_orig": {
+      "chi2": 502.0,
+      "p": 1.96e-64,
+      "cramers_v": 0.448
+    },
+    "topic_level_chi2_gen": {
+      "chi2": 0.0,
+      "p": 1.0,
+      "cramers_v": 0.0
+    }
+  }
+}

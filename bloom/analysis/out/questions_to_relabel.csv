@@ -1,0 +1,29 @@
+﻿id,question,declared_level,audited_level,justification
+GEN019,Write out the equivalence classes of congruence modulo 3 on the integers.,Remember,Apply,"K1: residue classes must be generated, not recalled -> Executing"
+GEN062,"What are initial conditions, and why are they needed?",Remember,Understand,second half of the item ('why are they needed') requires an explanation
+GEN073,"List all subsets of the set {a, b, c}.",Remember,Apply,listing all 8 subsets = carrying out a procedure
+GEN092,"Describe why C(n, r) = C(n, n − r) using a counting argument rather than algebra.",Understand,Analyze,combinatorial proof via a bijection = Organizing/Attributing
+GEN225,Write a recurrence for the number of bit strings of length n that contain no two consecutive 0s.,Apply,Analyze,setting up a recurrence = decomposing the problem into subcases
+GEN245,"Identify the prime implicants of F(x, y, z) = Σm(1, 3, 4, 5, 6) and determine which of them are essential.",Analyze,Apply,K1: finding prime implicants = Quine-McCluskey algorithm
+GEN258,"Analyze the relation ""uses exactly the same set of letters"" on English words, and determine which of the words silent, enlist, list, tinsel fall into the class of ""listen"".",Analyze,Apply,K1: checking anagrams against the definition
+GEN259,Identify which of these relations on the real numbers are equivalence relations: |x − y| < 1; ⌊x⌋ = ⌊y⌋; x − y ∈ ℤ.,Analyze,Apply,K1: checking three relations against the definition
+GEN268,"Classify eˣ, x³, and sin x, viewed as functions from ℝ to ℝ, as injective, surjective, bijective, or none of these.",Analyze,Apply,K1: checking injectivity/surjectivity against the definition
+GEN284,"Identify which of these relations on {1, 2, 3} are partial orders: {(1,1), (2,2), (3,3), (1,2)}; {(1,1), (2,2), (3,3), (1,2), (2,1)}; {(1,1), (2,2), (1,2), (2,3), (1,3)}.",Analyze,Apply,K1: checking the partial-order axioms
+GEN296,"Identify the rule of inference used in the argument: ""If it rains, the match is cancelled. The match was not cancelled. Therefore, it did not rain.""",Analyze,Understand,recognising a named rule of inference = Classifying
+GEN298,"Classify each formula as a tautology, a contradiction, or a contingency: (p → q) ∨ (q → p); p ∧ ¬p; (p ∨ q) → p.",Analyze,Apply,K1: constructing truth tables
+GEN305,Identify which of these recurrences are linear homogeneous with constant coefficients: aₙ = 2aₙ₋₁ + n; aₙ = aₙ₋₁·aₙ₋₂; aₙ = 3aₙ₋₂.,Analyze,Apply,K1: matching against the definition of a linear homogeneous recurrence with constant coefficients
+GEN309,Identify which of the following relations on ℤ are transitive: x − y is odd; x ≤ y + 1; xy ≥ 0.,Analyze,Apply,K1: checking transitivity
+GEN313,"Classify each set as finite, countably infinite, or uncountable: the even integers, the real interval [0, 1], the set of all finite binary strings.",Analyze,Apply,K1: applying known cardinality results
+GEN320,"Identify which of the following graphs are trees: a connected graph with 8 vertices and 7 edges; a graph with 8 vertices, 7 edges, and two components; a connected graph with 8 vertices and 8 edges.",Analyze,Apply,K1: checking the tree criterion |E|=|V|-1 and connectedness
+GEN402,"Construct a full adder from two half adders and an OR gate, and write the Boolean expressions for its outputs.",Create,Apply,K6: the circuit layout (two half adders + OR) is given in the item
+GEN418,"Create the partition of all binary strings of length 4 into classes of strings that are rotations of one another, and count the classes.",Create,Apply,K1: enumerating rotation classes = exhaustive check of 16 strings
+GEN423,Create a regular expression and an equivalent DFA for binary strings in which every 1 is immediately followed by a 0.,Create,Apply,K4: standard regex/DFA exercise
+GEN426,"Construct a bijection between the intervals (0, 1) and (0, 5).",Create,Apply,K4: canonical linear bijection x->5x
+GEN437,"Construct a small RSA key pair from the primes p = 5 and q = 11, and use it to encrypt the message m = 9.",Create,Apply,"K4: executing the RSA procedure on given p, q, m"
+GEN440,"Devise an algorithm that computes aⁿ mod m by repeated squaring, and illustrate it on 3⁴⁵ mod 7.",Create,Apply,K4: the algorithm is named in the item ('repeated squaring')
+GEN448,"Construct a formal definition of ""f is surjective"" using quantifiers, and then derive a quantifier form of its negation.",Create,Apply,K4: writing the definition of surjectivity with quantifiers = reproduction
+GEN452,Construct an induction proof that every postage amount of 12 cents or more can be formed from 4-cent and 5-cent stamps.,Create,Apply,K3: classic textbook proof by induction
+GEN454,Devise a proof that there is no smallest positive rational number.,Create,Apply,K3: short canonical argument (a/2)
+GEN472,Construct a bijection between the natural numbers and the integers to show that they have the same cardinality.,Create,Apply,K4: canonical bijection N<->Z
+GEN477,Construct a binary tree whose inorder traversal is D B E A F C and whose preorder traversal is A B D E C F.,Create,Apply,K4: executing the algorithm for rebuilding a tree from its traversals
+GEN480,"Develop an algorithm, in pseudocode, that counts the leaves of a binary tree.",Create,Apply,"K4: routine tree traversal; cf. GEN170, labelled Apply"

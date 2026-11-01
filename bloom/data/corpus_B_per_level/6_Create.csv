@@ -1,0 +1,84 @@
+id,source_number,question,topic,template_id,action_verb,bloom_level,bloom_level_id,group_id,is_duplicate,n_copies,split
+DM006,6,"Construct an original example, proof, or model related to combinatorics.",combinatorics,T6,construct,Create,6,G06,0,11,train
+DM012,12,"Construct an original example, proof, or model related to recurrence relations.",recurrence relations,T6,construct,Create,6,G12,0,11,train
+DM018,18,"Construct an original example, proof, or model related to predicate logic.",predicate logic,T6,construct,Create,6,G18,0,11,train
+DM024,24,"Construct an original example, proof, or model related to trees.",trees,T6,construct,Create,6,G24,0,10,train
+DM030,30,"Construct an original example, proof, or model related to partially ordered sets.",partially ordered sets,T6,construct,Create,6,G30,0,10,train
+DM036,36,"Construct an original example, proof, or model related to relations.",relations,T6,construct,Create,6,G36,0,10,test
+DM042,42,"Construct an original example, proof, or model related to proof techniques.",proof techniques,T6,construct,Create,6,G42,0,10,train
+DM048,48,"Construct an original example, proof, or model related to algorithms.",algorithms,T6,construct,Create,6,G48,0,10,validation
+DM054,54,"Construct an original example, proof, or model related to combinatorics.",combinatorics,T6,construct,Create,6,G06,1,11,train
+DM060,60,"Construct an original example, proof, or model related to recurrence relations.",recurrence relations,T6,construct,Create,6,G12,1,11,train
+DM066,66,"Construct an original example, proof, or model related to predicate logic.",predicate logic,T6,construct,Create,6,G18,1,11,train
+DM072,72,"Construct an original example, proof, or model related to trees.",trees,T6,construct,Create,6,G24,1,10,train
+DM078,78,"Construct an original example, proof, or model related to partially ordered sets.",partially ordered sets,T6,construct,Create,6,G30,1,10,train
+DM084,84,"Construct an original example, proof, or model related to relations.",relations,T6,construct,Create,6,G36,1,10,test
+DM090,90,"Construct an original example, proof, or model related to proof techniques.",proof techniques,T6,construct,Create,6,G42,1,10,train
+DM096,96,"Construct an original example, proof, or model related to algorithms.",algorithms,T6,construct,Create,6,G48,1,10,validation
+DM102,102,"Construct an original example, proof, or model related to combinatorics.",combinatorics,T6,construct,Create,6,G06,1,11,train
+DM108,108,"Construct an original example, proof, or model related to recurrence relations.",recurrence relations,T6,construct,Create,6,G12,1,11,train
+DM114,114,"Construct an original example, proof, or model related to predicate logic.",predicate logic,T6,construct,Create,6,G18,1,11,train
+DM120,120,"Construct an original example, proof, or model related to trees.",trees,T6,construct,Create,6,G24,1,10,train
+DM126,126,"Construct an original example, proof, or model related to partially ordered sets.",partially ordered sets,T6,construct,Create,6,G30,1,10,train
+DM132,132,"Construct an original example, proof, or model related to relations.",relations,T6,construct,Create,6,G36,1,10,test
+DM138,138,"Construct an original example, proof, or model related to proof techniques.",proof techniques,T6,construct,Create,6,G42,1,10,train
+DM144,144,"Construct an original example, proof, or model related to algorithms.",algorithms,T6,construct,Create,6,G48,1,10,validation
+DM150,150,"Construct an original example, proof, or model related to combinatorics.",combinatorics,T6,construct,Create,6,G06,1,11,train
+DM156,156,"Construct an original example, proof, or model related to recurrence relations.",recurrence relations,T6,construct,Create,6,G12,1,11,train
+DM162,162,"Construct an original example, proof, or model related to predicate logic.",predicate logic,T6,construct,Create,6,G18,1,11,train
+DM168,168,"Construct an original example, proof, or model related to trees.",trees,T6,construct,Create,6,G24,1,10,train
+DM174,174,"Construct an original example, proof, or model related to partially ordered sets.",partially ordered sets,T6,construct,Create,6,G30,1,10,train
+DM180,180,"Construct an original example, proof, or model related to relations.",relations,T6,construct,Create,6,G36,1,10,test
+DM186,186,"Construct an original example, proof, or model related to proof techniques.",proof techniques,T6,construct,Create,6,G42,1,10,train
+DM192,192,"Construct an original example, proof, or model related to algorithms.",algorithms,T6,construct,Create,6,G48,1,10,validation
+DM198,198,"Construct an original example, proof, or model related to combinatorics.",combinatorics,T6,construct,Create,6,G06,1,11,train
+DM204,204,"Construct an original example, proof, or model related to recurrence relations.",recurrence relations,T6,construct,Create,6,G12,1,11,train
+DM210,210,"Construct an original example, proof, or model related to predicate logic.",predicate logic,T6,construct,Create,6,G18,1,11,train
+DM216,216,"Construct an original example, proof, or model related to trees.",trees,T6,construct,Create,6,G24,1,10,train
+DM222,222,"Construct an original example, proof, or model related to partially ordered sets.",partially ordered sets,T6,construct,Create,6,G30,1,10,train
+DM228,228,"Construct an original example, proof, or model related to relations.",relations,T6,construct,Create,6,G36,1,10,test
+DM234,234,"Construct an original example, proof, or model related to proof techniques.",proof techniques,T6,construct,Create,6,G42,1,10,train
+DM240,240,"Construct an original example, proof, or model related to algorithms.",algorithms,T6,construct,Create,6,G48,1,10,validation
+DM246,246,"Construct an original example, proof, or model related to combinatorics.",combinatorics,T6,construct,Create,6,G06,1,11,train
+DM252,252,"Construct an original example, proof, or model related to recurrence relations.",recurrence relations,T6,construct,Create,6,G12,1,11,train
+DM258,258,"Construct an original example, proof, or model related to predicate logic.",predicate logic,T6,construct,Create,6,G18,1,11,train
+DM264,264,"Construct an original example, proof, or model related to trees.",trees,T6,construct,Create,6,G24,1,10,train
+DM270,270,"Construct an original example, proof, or model related to partially ordered sets.",partially ordered sets,T6,construct,Create,6,G30,1,10,train
+DM276,276,"Construct an original example, proof, or model related to relations.",relations,T6,construct,Create,6,G36,1,10,test
+DM282,282,"Construct an original example, proof, or model related to proof techniques.",proof techniques,T6,construct,Create,6,G42,1,10,train
+DM288,288,"Construct an original example, proof, or model related to algorithms.",algorithms,T6,construct,Create,6,G48,1,10,validation
+DM294,294,"Construct an original example, proof, or model related to combinatorics.",combinatorics,T6,construct,Create,6,G06,1,11,train
+DM300,300,"Construct an original example, proof, or model related to recurrence relations.",recurrence relations,T6,construct,Create,6,G12,1,11,train
+DM306,306,"Construct an original example, proof, or model related to predicate logic.",predicate logic,T6,construct,Create,6,G18,1,11,train
+DM312,312,"Construct an original example, proof, or model related to trees.",trees,T6,construct,Create,6,G24,1,10,train
+DM318,318,"Construct an original example, proof, or model related to partially ordered sets.",partially ordered sets,T6,construct,Create,6,G30,1,10,train
+DM324,324,"Construct an original example, proof, or model related to relations.",relations,T6,construct,Create,6,G36,1,10,test
+DM330,330,"Construct an original example, proof, or model related to proof techniques.",proof techniques,T6,construct,Create,6,G42,1,10,train
+DM336,336,"Construct an original example, proof, or model related to algorithms.",algorithms,T6,construct,Create,6,G48,1,10,validation
+DM342,342,"Construct an original example, proof, or model related to combinatorics.",combinatorics,T6,construct,Create,6,G06,1,11,train
+DM348,348,"Construct an original example, proof, or model related to recurrence relations.",recurrence relations,T6,construct,Create,6,G12,1,11,train
+DM354,354,"Construct an original example, proof, or model related to predicate logic.",predicate logic,T6,construct,Create,6,G18,1,11,train
+DM360,360,"Construct an original example, proof, or model related to trees.",trees,T6,construct,Create,6,G24,1,10,train
+DM366,366,"Construct an original example, proof, or model related to partially ordered sets.",partially ordered sets,T6,construct,Create,6,G30,1,10,train
+DM372,372,"Construct an original example, proof, or model related to relations.",relations,T6,construct,Create,6,G36,1,10,test
+DM378,378,"Construct an original example, proof, or model related to proof techniques.",proof techniques,T6,construct,Create,6,G42,1,10,train
+DM384,384,"Construct an original example, proof, or model related to algorithms.",algorithms,T6,construct,Create,6,G48,1,10,validation
+DM390,390,"Construct an original example, proof, or model related to combinatorics.",combinatorics,T6,construct,Create,6,G06,1,11,train
+DM396,396,"Construct an original example, proof, or model related to recurrence relations.",recurrence relations,T6,construct,Create,6,G12,1,11,train
+DM402,402,"Construct an original example, proof, or model related to predicate logic.",predicate logic,T6,construct,Create,6,G18,1,11,train
+DM408,408,"Construct an original example, proof, or model related to trees.",trees,T6,construct,Create,6,G24,1,10,train
+DM414,414,"Construct an original example, proof, or model related to partially ordered sets.",partially ordered sets,T6,construct,Create,6,G30,1,10,train
+DM420,420,"Construct an original example, proof, or model related to relations.",relations,T6,construct,Create,6,G36,1,10,test
+DM426,426,"Construct an original example, proof, or model related to proof techniques.",proof techniques,T6,construct,Create,6,G42,1,10,train
+DM432,432,"Construct an original example, proof, or model related to algorithms.",algorithms,T6,construct,Create,6,G48,1,10,validation
+DM438,438,"Construct an original example, proof, or model related to combinatorics.",combinatorics,T6,construct,Create,6,G06,1,11,train
+DM444,444,"Construct an original example, proof, or model related to recurrence relations.",recurrence relations,T6,construct,Create,6,G12,1,11,train
+DM450,450,"Construct an original example, proof, or model related to predicate logic.",predicate logic,T6,construct,Create,6,G18,1,11,train
+DM456,456,"Construct an original example, proof, or model related to trees.",trees,T6,construct,Create,6,G24,1,10,train
+DM462,462,"Construct an original example, proof, or model related to partially ordered sets.",partially ordered sets,T6,construct,Create,6,G30,1,10,train
+DM468,468,"Construct an original example, proof, or model related to relations.",relations,T6,construct,Create,6,G36,1,10,test
+DM474,474,"Construct an original example, proof, or model related to proof techniques.",proof techniques,T6,construct,Create,6,G42,1,10,train
+DM480,480,"Construct an original example, proof, or model related to algorithms.",algorithms,T6,construct,Create,6,G48,1,10,validation
+DM486,486,"Construct an original example, proof, or model related to combinatorics.",combinatorics,T6,construct,Create,6,G06,1,11,train
+DM492,492,"Construct an original example, proof, or model related to recurrence relations.",recurrence relations,T6,construct,Create,6,G12,1,11,train
+DM498,498,"Construct an original example, proof, or model related to predicate logic.",predicate logic,T6,construct,Create,6,G18,1,11,train

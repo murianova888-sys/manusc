@@ -1,0 +1,260 @@
+{
+  "orig": {
+    "n": 500,
+    "unique_questions": 48,
+    "rubric_agreement": 1.0,
+    "kappa_R_vs_declared": 1.0,
+    "underspecified_share": 0.498,
+    "underspecified_templates": [
+      "T3",
+      "T4",
+      "T5"
+    ],
+    "per_template": {
+      "T1": {
+        "declared": 1,
+        "rubric_mode": 1,
+        "actionable": true,
+        "n": 84
+      },
+      "T2": {
+        "declared": 2,
+        "rubric_mode": 2,
+        "actionable": true,
+        "n": 84
+      },
+      "T3": {
+        "declared": 3,
+        "rubric_mode": 3,
+        "actionable": false,
+        "n": 83
+      },
+      "T4": {
+        "declared": 4,
+        "rubric_mode": 4,
+        "actionable": false,
+        "n": 83
+      },
+      "T5": {
+        "declared": 5,
+        "rubric_mode": 5,
+        "actionable": false,
+        "n": 83
+      },
+      "T6": {
+        "declared": 6,
+        "rubric_mode": 6,
+        "actionable": true,
+        "n": 83
+      }
+    }
+  },
+  "gen": {
+    "n": 480,
+    "agree_M_declared": 0.9417,
+    "agree_R_declared": 0.9167,
+    "agree_R_M": 0.9208,
+    "kappa_M_declared": 0.93,
+    "kappa_w_M_declared": 0.9499,
+    "kappa_R_declared": 0.9,
+    "kappa_w_R_declared": 0.945,
+    "kappa_R_M": 0.9046,
+    "kappa_w_R_M": 0.9377,
+    "kappa_Mstrict_declared": 0.86,
+    "agree_Mstrict_declared": 0.8833,
+    "mean_signed_deviation": -0.0833,
+    "n_overstated": 23,
+    "n_understated": 5,
+    "borderline_share": 0.0625,
+    "per_level": [
+      {
+        "level": 1,
+        "name": "Remember",
+        "n": 80,
+        "agree_M": 0.963,
+        "agree_R": 0.912,
+        "inflation_M": 0.0,
+        "mean_audited_level": 1.06,
+        "ci95_agree_M": [
+          0.895,
+          0.987
+        ]
+      },
+      {
+        "level": 2,
+        "name": "Understand",
+        "n": 80,
+        "agree_M": 0.988,
+        "agree_R": 0.95,
+        "inflation_M": 0.0,
+        "mean_audited_level": 2.02,
+        "ci95_agree_M": [
+          0.933,
+          0.998
+        ]
+      },
+      {
+        "level": 3,
+        "name": "Apply",
+        "n": 80,
+        "agree_M": 0.988,
+        "agree_R": 0.963,
+        "inflation_M": 0.0,
+        "mean_audited_level": 3.01,
+        "ci95_agree_M": [
+          0.933,
+          0.998
+        ]
+      },
+      {
+        "level": 4,
+        "name": "Analyze",
+        "n": 80,
+        "agree_M": 0.863,
+        "agree_R": 0.812,
+        "inflation_M": 0.138,
+        "mean_audited_level": 3.85,
+        "ci95_agree_M": [
+          0.77,
+          0.921
+        ]
+      },
+      {
+        "level": 5,
+        "name": "Evaluate",
+        "n": 80,
+        "agree_M": 1.0,
+        "agree_R": 0.975,
+        "inflation_M": 0.0,
+        "mean_audited_level": 5.0,
+        "ci95_agree_M": [
+          0.954,
+          1.0
+        ]
+      },
+      {
+        "level": 6,
+        "name": "Create",
+        "n": 80,
+        "agree_M": 0.85,
+        "agree_R": 0.887,
+        "inflation_M": 0.15,
+        "mean_audited_level": 5.55,
+        "ci95_agree_M": [
+          0.756,
+          0.912
+        ]
+      }
+    ],
+    "deviation_vs_level_chi2": {
+      "chi2": 33.072,
+      "p": 3.64e-06,
+      "dof": 5,
+      "cramers_v": 0.262
+    },
+    "inflation_trend_spearman": {
+      "rho": 0.203,
+      "p": 7.57e-06
+    },
+    "confusion_declared_vs_M": [
+      [
+        77,
+        1,
+        2,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        79,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        79,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        10,
+        69,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        80,
+        0
+      ],
+      [
+        0,
+        0,
+        12,
+        0,
+        0,
+        68
+      ]
+    ],
+    "confusion_declared_vs_R": [
+      [
+        73,
+        2,
+        5,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        76,
+        4,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        77,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        3,
+        9,
+        65,
+        3,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        0,
+        78,
+        0
+      ],
+      [
+        0,
+        0,
+        8,
+        0,
+        1,
+        71
+      ]
+    ]
+  }
+}

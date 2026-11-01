@@ -1,0 +1,7 @@
+{
+  "n_A": 500,
+  "n_B": 500,
+  "same_ids": true,
+  "question_agreement": 1.0,
+  "label_agreement": 1.0
+}

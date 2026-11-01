@@ -1,0 +1,232 @@
+{
+  "baseline_firstword_gen_cv": {
+    "acc": 0.9167,
+    "f1_macro": 0.9172,
+    "qwk": 0.9311,
+    "kappa": 0.9,
+    "adj_acc": 0.9437,
+    "mae": 0.1667
+  },
+  "baseline_random_gen": {
+    "acc": 0.1667
+  },
+  "gen_cv_words_only": {
+    "acc_mean": 0.8617,
+    "acc_sd": 0.035,
+    "acc_ci95": [
+      0.8021,
+      0.9313
+    ],
+    "f1_macro": 0.8616,
+    "qwk": 0.8574
+  },
+  "gen_cv_nb": {
+    "acc_mean": 0.8429,
+    "acc_sd": 0.0299,
+    "acc_ci95": [
+      0.7938,
+      0.8958
+    ],
+    "f1_macro": 0.8385,
+    "qwk": 0.8119
+  },
+  "gen_cv_rf": {
+    "acc_mean": 0.8921,
+    "acc_sd": 0.0348,
+    "acc_ci95": [
+      0.8396,
+      0.9583
+    ],
+    "f1_macro": 0.8921,
+    "qwk": 0.9254
+  },
+  "gen_cv_svm": {
+    "acc_mean": 0.9046,
+    "acc_sd": 0.0246,
+    "acc_ci95": [
+      0.8604,
+      0.9417
+    ],
+    "f1_macro": 0.9043,
+    "qwk": 0.9419
+  },
+  "gen_cv_logreg": {
+    "acc_mean": 0.8717,
+    "acc_sd": 0.0253,
+    "acc_ci95": [
+      0.825,
+      0.9167
+    ],
+    "f1_macro": 0.8716,
+    "qwk": 0.9258
+  },
+  "gen_oof_best": {
+    "acc": 0.9021,
+    "f1_macro": 0.903,
+    "qwk": 0.9368,
+    "kappa": 0.8825,
+    "adj_acc": 0.9417,
+    "mae": 0.1729
+  },
+  "gen_oof_confusion": [
+    [
+      75,
+      1,
+      4,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      75,
+      4,
+      1,
+      0,
+      0
+    ],
+    [
+      7,
+      1,
+      65,
+      3,
+      3,
+      1
+    ],
+    [
+      0,
+      1,
+      4,
+      71,
+      4,
+      0
+    ],
+    [
+      0,
+      1,
+      6,
+      1,
+      71,
+      1
+    ],
+    [
+      1,
+      0,
+      3,
+      0,
+      0,
+      76
+    ]
+  ],
+  "gen_oof_report": "              precision    recall  f1-score   support\n\n    Remember      0.904     0.938     0.920        80\n  Understand      0.949     0.938     0.943        80\n       Apply      0.756     0.812     0.783        80\n     Analyze      0.934     0.887     0.910        80\n    Evaluate      0.910     0.887     0.899        80\n      Create      0.974     0.950     0.962        80\n\n    accuracy                          0.902       480\n   macro avg      0.905     0.902     0.903       480\nweighted avg      0.905     0.902     0.903       480\n",
+  "gen_oof_masked_verb": {
+    "acc": 0.7,
+    "f1_macro": 0.6971,
+    "qwk": 0.7604,
+    "kappa": 0.64,
+    "adj_acc": 0.8187,
+    "mae": 0.5833
+  },
+  "gen_oof_trained_on_audited_M": {
+    "acc": 0.8812,
+    "f1_macro": 0.8843,
+    "qwk": 0.9229,
+    "kappa": 0.8571,
+    "adj_acc": 0.9396,
+    "mae": 0.2062
+  },
+  "orig_groupcv_best": {
+    "acc": 1.0,
+    "f1_macro": 1.0,
+    "qwk": 1.0,
+    "kappa": 1.0,
+    "adj_acc": 1.0,
+    "mae": 0.0
+  },
+  "orig_randomcv_best_LEAKY": {
+    "acc": 1.0,
+    "f1_macro": 1.0,
+    "qwk": 1.0,
+    "kappa": 1.0,
+    "adj_acc": 1.0,
+    "mae": 0.0
+  },
+  "transfer_gen2orig": {
+    "acc": 0.978,
+    "f1_macro": 0.9779,
+    "qwk": 0.9853,
+    "kappa": 0.9736,
+    "adj_acc": 0.978,
+    "mae": 0.044
+  },
+  "transfer_orig2gen": {
+    "acc": 0.4146,
+    "f1_macro": 0.3892,
+    "qwk": 0.4214,
+    "kappa": 0.2975,
+    "adj_acc": 0.6042,
+    "mae": 1.2729
+  },
+  "transfer_orig2gen_confusion": [
+    [
+      48,
+      12,
+      3,
+      13,
+      0,
+      4
+    ],
+    [
+      8,
+      23,
+      0,
+      24,
+      15,
+      10
+    ],
+    [
+      12,
+      1,
+      3,
+      27,
+      4,
+      33
+    ],
+    [
+      3,
+      1,
+      0,
+      51,
+      5,
+      20
+    ],
+    [
+      7,
+      0,
+      0,
+      24,
+      45,
+      4
+    ],
+    [
+      9,
+      0,
+      3,
+      29,
+      10,
+      29
+    ]
+  ],
+  "transfer_genM2orig": {
+    "acc": 0.916,
+    "f1_macro": 0.9102,
+    "qwk": 0.947,
+    "kappa": 0.8992,
+    "adj_acc": 0.916,
+    "mae": 0.168
+  },
+  "final_model": {
+    "trained_on": 980,
+    "algo": "svm"
+  }
+}

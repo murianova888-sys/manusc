@@ -1,0 +1,529 @@
+﻿question,topic,gold_level_id,source,bloom_level
+Define a Boolean function of n variables.,Boolean algebra,1,ai_generated,Remember
+State the absorption laws of Boolean algebra.,Boolean algebra,1,ai_generated,Remember
+List the basic logic gates and the Boolean operation each performs.,Boolean algebra,1,ai_generated,Remember
+What is a minterm?,Boolean algebra,1,ai_generated,Remember
+Write the duality principle of Boolean algebra.,Boolean algebra,1,ai_generated,Remember
+Define an algorithm and list its essential properties.,algorithms,1,ai_generated,Remember
+State the definition of big-O notation.,algorithms,1,ai_generated,Remember
+What is the worst-case time complexity of binary search?,algorithms,1,ai_generated,Remember
+List the steps of the bubble sort algorithm.,algorithms,1,ai_generated,Remember
+Recall the definition of a greedy algorithm.,algorithms,1,ai_generated,Remember
+State the product rule of counting.,combinatorics,1,ai_generated,Remember
+Write the formula for the number of r-permutations of n distinct objects.,combinatorics,1,ai_generated,Remember
+"Define a combination and give the formula for C(n, r).",combinatorics,1,ai_generated,Remember
+State the pigeonhole principle.,combinatorics,1,ai_generated,Remember
+Recall Pascal's identity.,combinatorics,1,ai_generated,Remember
+Define an equivalence relation.,equivalence relations,1,ai_generated,Remember
+What is an equivalence class?,equivalence relations,1,ai_generated,Remember
+State the definition of a partition of a set.,equivalence relations,1,ai_generated,Remember
+Write out the equivalence classes of congruence modulo 3 on the integers.,equivalence relations,3,ai_generated,Apply
+Recall the correspondence between equivalence relations and partitions.,equivalence relations,1,ai_generated,Remember
+Define a deterministic finite automaton (DFA).,finite automata,1,ai_generated,Remember
+List the five components of the formal definition of a finite automaton.,finite automata,1,ai_generated,Remember
+What is a regular language?,finite automata,1,ai_generated,Remember
+State Kleene's theorem.,finite automata,1,ai_generated,Remember
+What is an accepting state of a finite automaton?,finite automata,1,ai_generated,Remember
+Define an injective function.,functions,1,ai_generated,Remember
+State the definitions of the floor and ceiling functions.,functions,1,ai_generated,Remember
+"What is the inverse of a function, and when does it exist?",functions,1,ai_generated,Remember
+Recall the definition of the composition f ∘ g of two functions.,functions,1,ai_generated,Remember
+"Write the definitions of the domain, codomain, and range of a function.",functions,1,ai_generated,Remember
+Define a simple graph.,graph theory,1,ai_generated,Remember
+State the handshaking theorem.,graph theory,1,ai_generated,Remember
+What is the degree of a vertex?,graph theory,1,ai_generated,Remember
+Recall the necessary and sufficient condition for a connected graph to have an Euler circuit.,graph theory,1,ai_generated,Remember
+Name three common ways to represent a graph in a computer.,graph theory,1,ai_generated,Remember
+Define what it means for an integer a to divide an integer b.,number theory,1,ai_generated,Remember
+State the Fundamental Theorem of Arithmetic.,number theory,1,ai_generated,Remember
+What is the greatest common divisor of two integers?,number theory,1,ai_generated,Remember
+State Fermat's little theorem.,number theory,1,ai_generated,Remember
+Write the definition of congruence modulo m.,number theory,1,ai_generated,Remember
+Define a partially ordered set.,partially ordered sets,1,ai_generated,Remember
+What is a Hasse diagram?,partially ordered sets,1,ai_generated,Remember
+State the definitions of a maximal element and a greatest element.,partially ordered sets,1,ai_generated,Remember
+Define a lattice.,partially ordered sets,1,ai_generated,Remember
+What is a totally ordered set?,partially ordered sets,1,ai_generated,Remember
+Define the universal and existential quantifiers.,predicate logic,1,ai_generated,Remember
+State the rule for negating the formula ∀x P(x).,predicate logic,1,ai_generated,Remember
+What is a free variable in a predicate formula?,predicate logic,1,ai_generated,Remember
+Recall the meaning of the domain of discourse.,predicate logic,1,ai_generated,Remember
+"Write the symbolic form of ""there exists a unique x such that P(x)"".",predicate logic,1,ai_generated,Remember
+Define a direct proof.,proof techniques,1,ai_generated,Remember
+State the principle of mathematical induction.,proof techniques,1,ai_generated,Remember
+What is a proof by contradiction?,proof techniques,1,ai_generated,Remember
+List the steps of a proof by contraposition.,proof techniques,1,ai_generated,Remember
+Recall what a counterexample is and when one is enough to disprove a statement.,proof techniques,1,ai_generated,Remember
+Define a tautology and a contradiction in propositional logic.,propositional logic,1,ai_generated,Remember
+List the truth values of p → q for all four combinations of truth values of p and q.,propositional logic,1,ai_generated,Remember
+What is the contrapositive of the implication p → q?,propositional logic,1,ai_generated,Remember
+Name the logical connective that is true exactly when its two operands have different truth values.,propositional logic,1,ai_generated,Remember
+Write down De Morgan's laws for propositional formulas.,propositional logic,1,ai_generated,Remember
+Define a recurrence relation.,recurrence relations,1,ai_generated,Remember
+"What are initial conditions, and why are they needed?",recurrence relations,2,ai_generated,Understand
+Write the recurrence relation that defines the Fibonacci sequence.,recurrence relations,1,ai_generated,Remember
+State the characteristic equation of the recurrence aₙ = c₁aₙ₋₁ + c₂aₙ₋₂.,recurrence relations,1,ai_generated,Remember
+Recall the statement of the master theorem for divide-and-conquer recurrences.,recurrence relations,1,ai_generated,Remember
+Define a binary relation from a set A to a set B.,relations,1,ai_generated,Remember
+List the properties a relation must have to be a partial order.,relations,1,ai_generated,Remember
+State the definition of a transitive relation.,relations,1,ai_generated,Remember
+What is the transitive closure of a relation?,relations,1,ai_generated,Remember
+Name the properties commonly used to classify relations on a set.,relations,1,ai_generated,Remember
+Define the power set of a set A.,set theory,1,ai_generated,Remember
+State the definition of the symmetric difference of two sets.,set theory,1,ai_generated,Remember
+"List all subsets of the set {a, b, c}.",set theory,3,ai_generated,Apply
+What is the cardinality of the empty set?,set theory,1,ai_generated,Remember
+Write the inclusion–exclusion formula for |A ∪ B ∪ C|.,set theory,1,ai_generated,Remember
+Define a tree in graph theory.,trees,1,ai_generated,Remember
+How many edges does a tree with n vertices have?,trees,1,ai_generated,Remember
+"State the definitions of the root, a leaf, and the height of a rooted tree.",trees,1,ai_generated,Remember
+List the three standard depth-first traversal orders of a binary tree.,trees,1,ai_generated,Remember
+What is a spanning tree of a graph?,trees,1,ai_generated,Remember
+Explain the relationship between Boolean algebra and propositional logic.,Boolean algebra,2,ai_generated,Understand
+Describe why there are 2^(2ⁿ) distinct Boolean functions of n variables.,Boolean algebra,2,ai_generated,Understand
+Explain the purpose of a Karnaugh map in simplifying Boolean expressions.,Boolean algebra,2,ai_generated,Understand
+Explain why NAND gates alone are sufficient to implement any Boolean function.,Boolean algebra,2,ai_generated,Understand
+Interpret the sum-of-products expansion of a Boolean function in terms of its truth table.,Boolean algebra,2,ai_generated,Understand
+Explain why binary search requires the list to be sorted.,algorithms,2,ai_generated,Understand
+Describe the difference between worst-case and average-case complexity.,algorithms,2,ai_generated,Understand
+Explain intuitively what it means for a problem to be in the class P.,algorithms,2,ai_generated,Understand
+Explain why an O(n log n) algorithm eventually outperforms an O(n²) algorithm as n grows.,algorithms,2,ai_generated,Understand
+"Summarize how the divide-and-conquer strategy works, using merge sort as an example.",algorithms,2,ai_generated,Understand
+"Explain when to use permutations and when to use combinations, with an example of each.",combinatorics,2,ai_generated,Understand
+"Describe why C(n, r) = C(n, n − r) using a counting argument rather than algebra.",combinatorics,4,ai_generated,Analyze
+"Explain the idea behind the ""stars and bars"" method.",combinatorics,2,ai_generated,Understand
+Explain why the sum rule requires the tasks to be mutually exclusive.,combinatorics,2,ai_generated,Understand
+Interpret the binomial coefficients in the expansion of (x + y)⁴ in terms of choosing a term from each factor.,combinatorics,2,ai_generated,Understand
+Explain why two equivalence classes are either identical or disjoint.,equivalence relations,2,ai_generated,Understand
+Describe how congruence modulo m groups the integers into classes.,equivalence relations,2,ai_generated,Understand
+"Explain why ""has the same birthday as"" is an equivalence relation.",equivalence relations,2,ai_generated,Understand
+Explain how a partition of a set determines an equivalence relation.,equivalence relations,2,ai_generated,Understand
+"Interpret the equivalence classes of the relation ""has the same length"" on binary strings.",equivalence relations,2,ai_generated,Understand
+Explain the difference between deterministic and nondeterministic finite automata.,finite automata,2,ai_generated,Understand
+Describe why every NFA can be converted into an equivalent DFA.,finite automata,2,ai_generated,Understand
+Explain intuitively why no finite automaton recognizes the language {0ⁿ1ⁿ | n ≥ 0}.,finite automata,2,ai_generated,Understand
+Explain the role of ε-transitions in an NFA.,finite automata,2,ai_generated,Understand
+Interpret the language described by the regular expression (0 + 1)*01.,finite automata,2,ai_generated,Understand
+Explain the difference between the codomain and the range of a function.,functions,2,ai_generated,Understand
+Describe why a function from a finite set to itself is injective if and only if it is surjective.,functions,2,ai_generated,Understand
+"Explain, using an arrow diagram, why a function must assign exactly one output to each input.",functions,2,ai_generated,Understand
+Interpret the pigeonhole principle in terms of functions between finite sets.,functions,2,ai_generated,Understand
+Explain why f(x) = x² is not invertible on the real numbers but becomes invertible on the non-negative reals.,functions,2,ai_generated,Understand
+Explain the difference between an Euler path and a Hamilton path.,graph theory,2,ai_generated,Understand
+Describe why every graph has an even number of vertices of odd degree.,graph theory,2,ai_generated,Understand
+Explain in your own words what it means for two graphs to be isomorphic.,graph theory,2,ai_generated,Understand
+Explain intuitively why the complete graph K₅ cannot be drawn in the plane without edge crossings.,graph theory,2,ai_generated,Understand
+"Summarize the difference between directed and undirected graphs, with a real-world example of each.",graph theory,2,ai_generated,Understand
+Explain why the Euclidean algorithm always terminates.,number theory,2,ai_generated,Understand
+"Describe the relationship between gcd(a, b), lcm(a, b), and the product ab.",number theory,2,ai_generated,Understand
+Explain why a number is divisible by 9 exactly when the sum of its digits is divisible by 9.,number theory,2,ai_generated,Understand
+Explain the idea behind RSA encryption at a conceptual level.,number theory,2,ai_generated,Understand
+"Interpret the statement ""a has an inverse modulo m"" and explain when such an inverse exists.",number theory,2,ai_generated,Understand
+Explain the difference between a maximal element and a greatest element.,partially ordered sets,2,ai_generated,Understand
+Describe why divisibility on the positive integers is a partial order but not a total order.,partially ordered sets,2,ai_generated,Understand
+Explain what a topological sort produces and why one exists for every finite poset.,partially ordered sets,2,ai_generated,Understand
+Explain why a Hasse diagram omits loops and edges implied by transitivity.,partially ordered sets,2,ai_generated,Understand
+"Interpret the Hasse diagram of (P({a, b, c}), ⊆) as the vertices and edges of a cube.",partially ordered sets,2,ai_generated,Understand
+"Explain why the order of nested quantifiers matters, using ∀x∃y and ∃y∀x as an example.",predicate logic,2,ai_generated,Understand
+Describe the difference between a predicate and a proposition.,predicate logic,2,ai_generated,Understand
+Explain why ∀x P(x) is true for any predicate P when the domain is empty.,predicate logic,2,ai_generated,Understand
+"Paraphrase the formula ∀x (Student(x) → ∃y (Course(y) ∧ Takes(x, y))) in plain English.",predicate logic,2,ai_generated,Understand
+Summarize how changing the domain of discourse can change the truth value of ∃x (x² = 2).,predicate logic,2,ai_generated,Understand
+Explain why proving the contrapositive of an implication proves the original implication.,proof techniques,2,ai_generated,Understand
+Describe the difference between weak and strong induction.,proof techniques,2,ai_generated,Understand
+Explain why checking many examples does not prove a universal statement.,proof techniques,2,ai_generated,Understand
+Explain the role of the base case in a proof by mathematical induction.,proof techniques,2,ai_generated,Understand
+"Summarize the idea of a proof by cases, and describe a situation where it is natural.",proof techniques,2,ai_generated,Understand
+Explain why an implication p → q is considered true whenever p is false.,propositional logic,2,ai_generated,Understand
+"In your own words, describe the difference between logical equivalence and logical implication.",propositional logic,2,ai_generated,Understand
+"Why are an implication and its contrapositive logically equivalent, while an implication and its converse are not? Illustrate with an everyday example.",propositional logic,2,ai_generated,Understand
+"Describe what it means for a set of connectives to be functionally complete, and give an intuitive reason why {¬, ∧} is complete.",propositional logic,2,ai_generated,Understand
+"Interpret the formula (p ∧ q) → r as an English sentence, choosing your own meanings for p, q, and r.",propositional logic,2,ai_generated,Understand
+Explain why a linear homogeneous recurrence of degree k needs k initial conditions.,recurrence relations,2,ai_generated,Understand
+Describe how the roots of the characteristic equation determine the form of the general solution.,recurrence relations,2,ai_generated,Understand
+Explain what the recurrence for the running time of merge sort expresses.,recurrence relations,2,ai_generated,Understand
+Explain the difference between homogeneous and non-homogeneous linear recurrences.,recurrence relations,2,ai_generated,Understand
+Interpret the Tower of Hanoi recurrence Hₙ = 2Hₙ₋₁ + 1 in terms of moving the disks.,recurrence relations,2,ai_generated,Understand
+Explain the difference between an antisymmetric relation and a relation that is simply not symmetric.,relations,2,ai_generated,Understand
+Describe how a relation on a finite set can be represented by a zero–one matrix and by a directed graph.,relations,2,ai_generated,Understand
+Explain why the empty relation on a nonempty set is symmetric and transitive but not reflexive.,relations,2,ai_generated,Understand
+"Interpret the relation ""a divides b"" on {1, 2, 3, 4, 6, 12} in terms of its directed graph.",relations,2,ai_generated,Understand
+"Summarize what the composition of two relations represents, using students, courses, and teachers as an example.",relations,2,ai_generated,Understand
+Explain the difference between ∅ and {∅}.,set theory,2,ai_generated,Understand
+Describe why a set with n elements has exactly 2ⁿ subsets.,set theory,2,ai_generated,Understand
+"Explain the difference between ""a ∈ A"" and ""A ⊆ B"", giving an example of each.",set theory,2,ai_generated,Understand
+"Use a Venn diagram to illustrate why A \ (B ∪ C) = (A \ B) ∩ (A \ C), and describe what the diagram shows.",set theory,2,ai_generated,Understand
+Summarize what it means for two infinite sets to have the same cardinality.,set theory,2,ai_generated,Understand
+Explain why adding any new edge to a tree creates exactly one cycle.,trees,2,ai_generated,Understand
+Describe how a binary search tree keeps its elements ordered.,trees,2,ai_generated,Understand
+Explain why there is exactly one simple path between any two vertices of a tree.,trees,2,ai_generated,Understand
+Describe the difference between a full binary tree and a complete binary tree.,trees,2,ai_generated,Understand
+Explain how Huffman coding uses a tree to produce a prefix code.,trees,2,ai_generated,Understand
+"Find the sum-of-products expansion of F(x, y, z) = x + ȳz.",Boolean algebra,3,ai_generated,Apply
+Simplify xy + xȳ + x̄y using Boolean identities.,Boolean algebra,3,ai_generated,Apply
+"Use a Karnaugh map to minimize F(w, x, y, z) = Σm(0, 2, 5, 7, 8, 10, 13, 15).",Boolean algebra,3,ai_generated,Apply
+"Draw a logic circuit using AND, OR, and NOT gates for the expression (x + y)z̄.",Boolean algebra,3,ai_generated,Apply
+"Evaluate the Boolean expression x̄y + xz for all combinations of values of x, y, and z.",Boolean algebra,3,ai_generated,Apply
+"Trace binary search for the value 23 in the sorted list 3, 8, 12, 17, 23, 31, 42, 56.",algorithms,3,ai_generated,Apply
+"Sort the list 5, 2, 9, 1, 6 using insertion sort, showing the list after each pass.",algorithms,3,ai_generated,Apply
+Give a big-O estimate for a nested loop in which the outer loop runs n times and the inner loop runs i times on the i-th outer iteration.,algorithms,3,ai_generated,Apply
+"Use the greedy algorithm to make change for 68 cents with coins of 25, 10, 5, and 1 cents.",algorithms,3,ai_generated,Apply
+Write pseudocode for an algorithm that finds the largest element in a list of integers.,algorithms,3,ai_generated,Apply
+How many 8-character passwords can be formed from 26 lowercase letters and 10 digits if characters may repeat?,combinatorics,3,ai_generated,Apply
+In how many ways can a committee of 3 women and 2 men be chosen from 7 women and 6 men?,combinatorics,3,ai_generated,Apply
+Find the coefficient of x³y⁵ in the expansion of (2x − y)⁸.,combinatorics,3,ai_generated,Apply
+How many non-negative integer solutions does x₁ + x₂ + x₃ + x₄ = 12 have?,combinatorics,3,ai_generated,Apply
+In how many ways can the letters of the word MISSISSIPPI be arranged?,combinatorics,3,ai_generated,Apply
+"Find the equivalence classes of the relation ""a − b is divisible by 4"" on {0, 1, …, 11}.",equivalence relations,3,ai_generated,Apply
+"List the ordered pairs of the equivalence relation determined by the partition {{1, 2}, {3}, {4, 5, 6}}.",equivalence relations,3,ai_generated,Apply
+"Determine whether {(1,1), (2,2), (3,3), (1,2), (2,1), (2,3), (3,2)} is an equivalence relation on {1, 2, 3}.",equivalence relations,3,ai_generated,Apply
+"Find the number of equivalence classes of ""has the same remainder when divided by 7"" on the integers.",equivalence relations,3,ai_generated,Apply
+"Show that the relation (a, b) ~ (c, d) iff ad = bc, on pairs of integers with nonzero second component, is reflexive and symmetric.",equivalence relations,3,ai_generated,Apply
+"Trace the DFA with states q0 (start, accepting) and q1, where reading 0 keeps the state and reading 1 switches it, on the input 10110, and state whether the input is accepted.",finite automata,3,ai_generated,Apply
+Build a DFA that accepts exactly the binary strings ending in 00.,finite automata,3,ai_generated,Apply
+"Use the subset construction to convert the NFA with start state q0, accepting state q1, and transitions q0 –0→ {q0, q1}, q0 –1→ {q0} into a DFA.",finite automata,3,ai_generated,Apply
+Write a regular expression for the set of binary strings containing at least two 1s.,finite automata,3,ai_generated,Apply
+"Determine whether the strings 0110, 111, and 0001 belong to the language of the regular expression 0*1(0 + 1)*1.",finite automata,3,ai_generated,Apply
+Find f ∘ g and g ∘ f if f(x) = 2x + 3 and g(x) = x² − 1.,functions,3,ai_generated,Apply
+"Compute ⌊−3.7⌋, ⌈−3.7⌉, ⌊5⌋, and ⌈7/2⌉.",functions,3,ai_generated,Apply
+Find the inverse of f(x) = (3x − 2)/5 on the real numbers.,functions,3,ai_generated,Apply
+"Determine how many functions exist from a 3-element set to a 4-element set, and how many of them are injective.",functions,3,ai_generated,Apply
+"Check whether f: ℤ → ℤ, f(n) = 3n + 1, is injective and whether it is surjective.",functions,3,ai_generated,Apply
+Find the number of edges in a graph with 10 vertices in which every vertex has degree 3.,graph theory,3,ai_generated,Apply
+"Use Dijkstra's algorithm to find the shortest path from A to E in the graph with edges A–B (4), A–C (2), B–C (1), B–D (5), C–D (8), C–E (10), D–E (2).",graph theory,3,ai_generated,Apply
+Write the adjacency matrix of the cycle graph C₄.,graph theory,3,ai_generated,Apply
+"Determine the chromatic number of the complete bipartite graph K₃,₃.",graph theory,3,ai_generated,Apply
+"Check whether the degree sequence (3, 3, 2, 2, 1) can belong to a simple graph.",graph theory,3,ai_generated,Apply
+"Use the Euclidean algorithm to find gcd(252, 198).",number theory,3,ai_generated,Apply
+Compute 7²²² mod 11.,number theory,3,ai_generated,Apply
+Find the inverse of 3 modulo 7.,number theory,3,ai_generated,Apply
+Solve the linear congruence 4x ≡ 5 (mod 9).,number theory,3,ai_generated,Apply
+Find the prime factorization of 2310.,number theory,3,ai_generated,Apply
+Draw the Hasse diagram of the divisors of 36 ordered by divisibility.,partially ordered sets,3,ai_generated,Apply
+"Find all minimal and maximal elements of the poset ({2, 3, 4, 6, 8, 12, 18}, divisibility).",partially ordered sets,3,ai_generated,Apply
+"Find a topological order of tasks with the dependencies A before B, A before C, B before D, C before D, D before E.",partially ordered sets,3,ai_generated,Apply
+"Determine the least upper bound and greatest lower bound of {4, 6} in the positive integers ordered by divisibility.",partially ordered sets,3,ai_generated,Apply
+Check whether the divisors of 12 ordered by divisibility form a lattice.,partially ordered sets,3,ai_generated,Apply
+"Translate ""Every student in this class has visited at least one country outside Europe"" into predicate logic.",predicate logic,3,ai_generated,Apply
+Write the negation of ∀x ∃y (x + y = 0) so that no negation symbol appears in front of a quantifier.,predicate logic,3,ai_generated,Apply
+Determine the truth value of ∀x ∃y (y < x) when the domain is the natural numbers and when it is the integers.,predicate logic,3,ai_generated,Apply
+"Use universal instantiation and modus ponens to derive a conclusion from ""All mathematicians are logical"" and ""Ada is a mathematician.""",predicate logic,3,ai_generated,Apply
+"Express ""There is exactly one even prime number"" using quantifiers and the predicates Prime(x) and Even(x).",predicate logic,3,ai_generated,Apply
+Prove by induction that 1 + 2 + … + n = n(n + 1)/2 for all positive integers n.,proof techniques,3,ai_generated,Apply
+Give a direct proof that the sum of two odd integers is even.,proof techniques,3,ai_generated,Apply
+Prove by contradiction that √2 is irrational.,proof techniques,3,ai_generated,Apply
+"Use contraposition to prove that if n² is even, then n is even.",proof techniques,3,ai_generated,Apply
+Prove by cases that |xy| = |x|·|y| for all real numbers x and y.,proof techniques,3,ai_generated,Apply
+Construct the truth table for ((p → q) ∧ (q → r)) → (p → r).,propositional logic,3,ai_generated,Apply
+Convert the formula ¬(p ∨ (q ∧ ¬r)) into conjunctive normal form.,propositional logic,3,ai_generated,Apply
+Use the laws of logic to simplify ¬(p → q) ∨ (p ∧ q).,propositional logic,3,ai_generated,Apply
+"Translate ""You can access the network only if you are a student or you have paid the fee"" into a propositional formula.",propositional logic,3,ai_generated,Apply
+Use a truth table to check whether the premises p ∨ q and ¬p ∨ r entail the conclusion q ∨ r.,propositional logic,3,ai_generated,Apply
+Solve the recurrence aₙ = 5aₙ₋₁ − 6aₙ₋₂ with a₀ = 1 and a₁ = 0.,recurrence relations,3,ai_generated,Apply
+"Find the first six terms of the sequence defined by aₙ = aₙ₋₁ + 2aₙ₋₂, a₀ = 2, a₁ = 1.",recurrence relations,3,ai_generated,Apply
+Use the master theorem to find the asymptotic solution of T(n) = 4T(n/2) + n.,recurrence relations,3,ai_generated,Apply
+Solve aₙ = 3aₙ₋₁ + 2 with a₀ = 1.,recurrence relations,3,ai_generated,Apply
+Write a recurrence for the number of bit strings of length n that contain no two consecutive 0s.,recurrence relations,4,ai_generated,Analyze
+"Find the zero–one matrix of the relation R = {(1, 2), (2, 3), (3, 1), (2, 2)} on {1, 2, 3}.",relations,3,ai_generated,Apply
+"Compute the composition S ∘ R, where R = {(1, 2), (2, 3)} and S = {(2, 1), (3, 2)}.",relations,3,ai_generated,Apply
+"Use Warshall's algorithm to find the transitive closure of {(1, 2), (2, 3), (3, 4)} on {1, 2, 3, 4}.",relations,3,ai_generated,Apply
+Determine how many binary relations can be defined on a set with 4 elements.,relations,3,ai_generated,Apply
+"Find the reflexive closure and the symmetric closure of R = {(a, b), (b, c)} on {a, b, c}.",relations,3,ai_generated,Apply
+"Given U = {1, …, 10}, A = {2, 4, 6, 8}, and B = {1, 2, 3, 4}, compute A ∪ B, A ∩ B, A \ B, and the complement of A.",set theory,3,ai_generated,Apply
+"In a group of 120 students, 70 study Python, 55 study Java, and 30 study both. How many study neither language?",set theory,3,ai_generated,Apply
+"Compute the Cartesian product {0, 1} × {a, b, c}.",set theory,3,ai_generated,Apply
+Use set identities to simplify (A ∩ B) ∪ (A ∩ B̄).,set theory,3,ai_generated,Apply
+"Find |A ∪ B ∪ C| if |A| = 20, |B| = 25, |C| = 15, |A ∩ B| = 8, |A ∩ C| = 5, |B ∩ C| = 6, and |A ∩ B ∩ C| = 2.",set theory,3,ai_generated,Apply
+"Insert the keys 50, 30, 70, 20, 40, 60, 80, 35 into an empty binary search tree and draw the result.",trees,3,ai_generated,Apply
+"Write the preorder, inorder, and postorder traversals of the expression tree for (a + b) * (c − d).",trees,3,ai_generated,Apply
+"Use Kruskal's algorithm to find a minimum spanning tree of the graph with edges A–B (3), A–C (1), B–C (2), B–D (4), C–D (5).",trees,3,ai_generated,Apply
+Find the maximum number of leaves in a binary tree of height 5.,trees,3,ai_generated,Apply
+"Build a Huffman code for the symbols A, B, C, D, E with frequencies 0.35, 0.25, 0.20, 0.12, 0.08.",trees,3,ai_generated,Apply
+"Compare the circuits for x ⊕ y built from AND/OR/NOT gates and from NAND gates only, in terms of gate count.",Boolean algebra,4,ai_generated,Analyze
+Analyze a half adder and identify which Boolean functions produce its sum and carry outputs.,Boolean algebra,4,ai_generated,Analyze
+"Examine the expressions xy + x̄z + yz and xy + x̄z, and determine whether the term yz is redundant.",Boolean algebra,4,ai_generated,Analyze
+Break down a 2-to-1 multiplexer into its Boolean expression and identify the role of each variable.,Boolean algebra,4,ai_generated,Analyze
+"Identify the prime implicants of F(x, y, z) = Σm(1, 3, 4, 5, 6) and determine which of them are essential.",Boolean algebra,3,ai_generated,Apply
+"Compare linear search and binary search by the number of comparisons needed in the worst case for a list of 1,000,000 elements.",algorithms,4,ai_generated,Analyze
+"Analyze why the greedy change-making algorithm fails for coin values 1, 3, and 4 when making change for 6.",algorithms,4,ai_generated,Analyze
+Examine the loop invariant of insertion sort and explain how it guarantees correctness.,algorithms,4,ai_generated,Analyze
+Break down the running time of merge sort into the cost of splitting and the cost of merging.,algorithms,4,ai_generated,Analyze
+"Arrange the functions n², 2ⁿ, n log n, log n, and n! in increasing order of growth, and explain the comparison between each adjacent pair.",algorithms,4,ai_generated,Analyze
+"Compare the number of ways to distribute 10 identical balls into 4 boxes with the number of ways to distribute 10 distinct balls into 4 boxes, and explain the source of the difference.",combinatorics,4,ai_generated,Analyze
+Break down the problem of counting bit strings of length 10 that contain at least three 1s into simpler counting subproblems.,combinatorics,4,ai_generated,Analyze
+"A student counts 5-card poker hands with exactly one pair as C(13, 1)·C(4, 2)·C(48, 3). Identify which hands this formula counts incorrectly.",combinatorics,4,ai_generated,Analyze
+"For each scenario, determine which counting principle applies: choosing one dish from two separate menus; counting integers up to 100 divisible by 3 or 5; showing that two of 13 people share a birth month.",combinatorics,4,ai_generated,Analyze
+"Analyze how the number of lattice paths from (0, 0) to (m, n) is related to binomial coefficients.",combinatorics,4,ai_generated,Analyze
+"Compare the partitions of the integers induced by congruence modulo 4 and modulo 2, and analyze how they are related.",equivalence relations,4,ai_generated,Analyze
+"Examine the relation ""x and y are joined by a path"" on the vertices of a graph, and identify what its equivalence classes represent.",equivalence relations,4,ai_generated,Analyze
+"Analyze the relation ""uses exactly the same set of letters"" on English words, and determine which of the words silent, enlist, list, tinsel fall into the class of ""listen"".",equivalence relations,3,ai_generated,Apply
+Identify which of these relations on the real numbers are equivalence relations: |x − y| < 1; ⌊x⌋ = ⌊y⌋; x − y ∈ ℤ.,equivalence relations,3,ai_generated,Apply
+"Distinguish between the equivalence relations ""has the same area"" and ""is congruent to"" on triangles, and determine which one is finer.",equivalence relations,4,ai_generated,Analyze
+Compare the number of states needed by a DFA and by an NFA to recognize the binary strings whose third symbol from the end is 1.,finite automata,4,ai_generated,Analyze
+"Analyze a DFA that accepts binary numbers divisible by 3, and explain what each of its states represents.",finite automata,4,ai_generated,Analyze
+Examine how a DFA for strings with an even number of 0s and a DFA for strings with an odd number of 1s can be combined to recognize the intersection of the two languages.,finite automata,4,ai_generated,Analyze
+"Classify the languages {aⁿbᵐ | n, m ≥ 0} and {aⁿbⁿ | n ≥ 0} as regular or non-regular, and explain the structural reason.",finite automata,4,ai_generated,Analyze
+Break down the regular expression (ab + b)*a into its components and describe the automaton fragment that corresponds to each.,finite automata,4,ai_generated,Analyze
+"Compare the functions f(n) = n mod 5 and g(n) = ⌊n/5⌋ on the integers in terms of injectivity, surjectivity, and range.",functions,4,ai_generated,Analyze
+"Examine whether the composition of an injective function and a non-injective function can be injective, considering both orders of composition.",functions,4,ai_generated,Analyze
+"Classify eˣ, x³, and sin x, viewed as functions from ℝ to ℝ, as injective, surjective, bijective, or none of these.",functions,3,ai_generated,Apply
+Analyze how the choice of domain and codomain affects whether f(x) = |x| is a bijection.,functions,4,ai_generated,Analyze
+"A hash function maps 10,000 student IDs to 997 table slots. Identify what collisions reveal about the function's injectivity.",functions,4,ai_generated,Analyze
+"Compare adjacency-matrix and adjacency-list representations for a sparse graph with 10,000 vertices and 20,000 edges.",graph theory,4,ai_generated,Analyze
+"Determine whether two graphs with degree sequence (2, 2, 2, 2, 2, 2) can be non-isomorphic, and analyze their possible structures.",graph theory,4,ai_generated,Analyze
+"Examine a road network in which some streets are one-way, and identify how this affects the choice of graph model.",graph theory,4,ai_generated,Analyze
+"Classify K₄, C₅, and K₂,₃ as bipartite or non-bipartite, and explain the structural reason in each case.",graph theory,4,ai_generated,Analyze
+"Analyze why the greedy coloring algorithm can use more colors than the chromatic number, using a specific vertex ordering.",graph theory,4,ai_generated,Analyze
+Compare the efficiency of trial division and the Euclidean algorithm for finding the gcd of two 100-digit numbers.,number theory,4,ai_generated,Analyze
+Analyze the pattern of the last digits of the powers of 7 and explain its period.,number theory,4,ai_generated,Analyze
+Examine why 561 passes the Fermat test for every base coprime to it even though it is composite.,number theory,4,ai_generated,Analyze
+"Identify which system of congruences the Chinese Remainder Theorem applies to directly: {x ≡ 1 (mod 4), x ≡ 3 (mod 6)} or {x ≡ 2 (mod 5), x ≡ 3 (mod 7)}, and explain why.",number theory,4,ai_generated,Analyze
+Break down the RSA decryption step and identify which number-theoretic results guarantee that it recovers the original message.,number theory,4,ai_generated,Analyze
+"Compare the posets (ℤ, ≤) and (ℤ⁺, divisibility) in terms of comparability, least elements, and chains.",partially ordered sets,4,ai_generated,Analyze
+Analyze the poset of divisors of 30 and identify its structural similarity to the power set of a three-element set.,partially ordered sets,4,ai_generated,Analyze
+"Examine the Hasse diagram of a course-prerequisite system, and identify what its longest chain represents.",partially ordered sets,4,ai_generated,Analyze
+"Identify which of these relations on {1, 2, 3} are partial orders: {(1,1), (2,2), (3,3), (1,2)}; {(1,1), (2,2), (3,3), (1,2), (2,1)}; {(1,1), (2,2), (1,2), (2,3), (1,3)}.",partially ordered sets,3,ai_generated,Apply
+"Distinguish between chains and antichains in (P({1, 2, 3}), ⊆), and find the largest example of each.",partially ordered sets,4,ai_generated,Analyze
+"Analyze the argument ""Some students like logic. Some people who like logic are philosophers. Therefore, some students are philosophers,"" and locate where its reasoning breaks down.",predicate logic,4,ai_generated,Analyze
+"Compare ∀x (P(x) ∨ Q(x)) with ∀x P(x) ∨ ∀x Q(x): which implies which, and why?",predicate logic,4,ai_generated,Analyze
+"Identify the scope of each quantifier and all free variables in ∀x (P(x, y) → ∃y Q(x, y)).",predicate logic,4,ai_generated,Analyze
+Distinguish between ∃x (P(x) → Q(x)) and ∃x P(x) → ∃x Q(x) by finding a domain in which they have different truth values.,predicate logic,4,ai_generated,Analyze
+"Examine the English sentence ""Everybody loves somebody"" and determine which formal readings it admits.",predicate logic,4,ai_generated,Analyze
+"Compare proof by contradiction and proof by contraposition for the statement ""if n² is odd, then n is odd""; what does each assume at the start?",proof techniques,4,ai_generated,Analyze
+"Identify the proof technique in Euclid's proof that there are infinitely many primes, and analyze its logical structure.",proof techniques,4,ai_generated,Analyze
+Examine an induction proof of 2ⁿ > n² and determine from which base case the inductive step works.,proof techniques,4,ai_generated,Analyze
+Break down a proof that n³ − n is divisible by 6 into the separate claims that must be established.,proof techniques,4,ai_generated,Analyze
+"Determine which proof technique fits each statement best: ""every tree with n vertices has n − 1 edges""; ""there is no largest prime""; ""if ab = 0, then a = 0 or b = 0"".",proof techniques,4,ai_generated,Analyze
+"Identify the rule of inference used in the argument: ""If it rains, the match is cancelled. The match was not cancelled. Therefore, it did not rain.""",propositional logic,2,ai_generated,Understand
+Compare the formulas p → (q → r) and (p → q) → r: for which truth assignments do they have different values?,propositional logic,4,ai_generated,Analyze
+"Classify each formula as a tautology, a contradiction, or a contingency: (p → q) ∨ (q → p); p ∧ ¬p; (p ∨ q) → p.",propositional logic,3,ai_generated,Apply
+"A system specification contains the statements p → q, q → ¬r, and r. Examine whether the specifications are consistent and identify the statements responsible for any conflict.",propositional logic,4,ai_generated,Analyze
+"Break down the formula ¬(p ∧ q) ↔ (¬p ∨ ¬q) into its main connective and subformulas, and show how its structure makes it a tautology.",propositional logic,4,ai_generated,Analyze
+"Compare the solutions of aₙ = 4aₙ₋₁ − 4aₙ₋₂ and aₙ = aₙ₋₁ + 6aₙ₋₂, and analyze how a repeated root changes the form of the solution.",recurrence relations,4,ai_generated,Analyze
+Analyze the growth rate of T(n) = T(n − 1) + n and compare it with T(n) = 2T(n/2) + n.,recurrence relations,4,ai_generated,Analyze
+"Examine the recurrence for the number of regions formed by n lines in general position, and identify how each new line contributes.",recurrence relations,4,ai_generated,Analyze
+"Break down the problem of counting ways to climb n stairs taking 1 or 2 steps at a time into subproblems, and identify the resulting recurrence.",recurrence relations,4,ai_generated,Analyze
+Identify which of these recurrences are linear homogeneous with constant coefficients: aₙ = 2aₙ₋₁ + n; aₙ = aₙ₋₁·aₙ₋₂; aₙ = 3aₙ₋₂.,recurrence relations,3,ai_generated,Apply
+"Examine the relation ""x and y have at least one common friend"" on a set of people and determine which of the properties reflexive, symmetric, and transitive it has.",relations,4,ai_generated,Analyze
+Compare the properties of the relations ≤ and < on the integers.,relations,4,ai_generated,Analyze
+Analyze which properties of a relation can be read directly from the diagonal of its zero–one matrix and from the symmetry of the matrix.,relations,4,ai_generated,Analyze
+Identify which of the following relations on ℤ are transitive: x − y is odd; x ≤ y + 1; xy ≥ 0.,relations,3,ai_generated,Apply
+"Break down the relation ""is an ancestor of"" into a combination of simpler relations.",relations,4,ai_generated,Analyze
+Compare the sets A × B and B × A: under what conditions are they equal?,set theory,4,ai_generated,Analyze
+Examine the identity A ∪ (B ∩ C) = (A ∪ B) ∩ (A ∪ C) by breaking it down into membership conditions for an arbitrary element.,set theory,4,ai_generated,Analyze
+"Classify each set as finite, countably infinite, or uncountable: the even integers, the real interval [0, 1], the set of all finite binary strings.",set theory,3,ai_generated,Apply
+Analyze Russell's paradox and identify which assumption about forming sets leads to the contradiction.,set theory,4,ai_generated,Analyze
+"Determine whether P(A ∩ B) is a subset of, a superset of, or equal to P(A) ∩ P(B), and explain the reasoning.",set theory,4,ai_generated,Analyze
+"Compare the heights of the binary search trees obtained by inserting 1 to 7 in increasing order and in the order 4, 2, 6, 1, 3, 5, 7.",trees,4,ai_generated,Analyze
+"Examine why Prim's and Kruskal's algorithms can produce different minimum spanning trees for the same graph, and state when the minimum spanning tree is unique.",trees,4,ai_generated,Analyze
+Analyze the relationship between the number of internal vertices and the number of leaves in a full m-ary tree.,trees,4,ai_generated,Analyze
+Distinguish between the uses of breadth-first and depth-first traversal when searching a file-system directory tree.,trees,4,ai_generated,Analyze
+"Identify which of the following graphs are trees: a connected graph with 8 vertices and 7 edges; a graph with 8 vertices, 7 edges, and two components; a connected graph with 8 vertices and 8 edges.",trees,3,ai_generated,Apply
+A student simplified x + x̄y to y. Evaluate this simplification and give the correct result if needed.,Boolean algebra,5,ai_generated,Evaluate
+Judge whether a circuit with fewer gates is always preferable to one with a shorter propagation delay.,Boolean algebra,5,ai_generated,Evaluate
+"Assess whether the identity x + yz = (x + y)(x + z) holds in every Boolean algebra, and justify your answer.",Boolean algebra,5,ai_generated,Evaluate
+"Decide whether Karnaugh maps or the Quine–McCluskey method is more suitable for minimizing a function of 8 variables, and defend your choice.",Boolean algebra,5,ai_generated,Evaluate
+Critique the claim that every Boolean function has a unique minimal sum-of-products form.,Boolean algebra,5,ai_generated,Evaluate
+A student claims that an O(n²) algorithm is always slower than an O(n) algorithm. Evaluate this claim.,algorithms,5,ai_generated,Evaluate
+Judge whether bubble sort is a reasonable choice for sorting a nearly sorted list of 10 elements.,algorithms,5,ai_generated,Evaluate
+Assess the correctness of an algorithm that finds the second-largest element by sorting the list in ascending order and returning the second element.,algorithms,5,ai_generated,Evaluate
+"Decide whether a brute-force algorithm is acceptable for solving the traveling salesperson problem for 20 cities, and defend your answer.",algorithms,5,ai_generated,Evaluate
+"Critique the claim that ""an algorithm is efficient if it runs quickly on my laptop for my test data.""",algorithms,5,ai_generated,Evaluate
+A student claims that 6 people can be seated around a round table in 6! ways. Evaluate this answer and justify the correct count.,combinatorics,5,ai_generated,Evaluate
+"Judge whether this is a valid use of the pigeonhole principle: ""Among 30 students, two must have birthdays in the same week.""",combinatorics,5,ai_generated,Evaluate
+"Two solutions to ""How many 4-digit numbers have distinct digits?"" give 5040 and 4536. Decide which is correct and explain the mistake in the other.",combinatorics,5,ai_generated,Evaluate
+"Assess whether a combinatorial proof or an algebraic proof of Σ C(n, k) = 2ⁿ is more illuminating, and justify your view.",combinatorics,5,ai_generated,Evaluate
+"A lottery advertisement claims that choosing 6 numbers from 49 gives ""about a one-in-a-million chance"" of winning. Critique this claim.",combinatorics,5,ai_generated,Evaluate
+A student claims that the intersection of two equivalence relations on the same set is always an equivalence relation. Evaluate this claim.,equivalence relations,5,ai_generated,Evaluate
+"Judge whether the union of two equivalence relations is always an equivalence relation, and justify your answer.",equivalence relations,5,ai_generated,Evaluate
+"Assess whether ""is a friend of"" on a social network can be used to partition the users into groups.",equivalence relations,5,ai_generated,Evaluate
+"Decide whether ""differs in at most one character"" on passwords of equal length is an equivalence relation, and justify your answer.",equivalence relations,5,ai_generated,Evaluate
+"Critique the construction of the rational numbers as equivalence classes of pairs of integers, and explain what problem it solves.",equivalence relations,5,ai_generated,Evaluate
+A student claims that the union of two regular languages can be non-regular. Evaluate this claim.,finite automata,5,ai_generated,Evaluate
+Judge whether a finite automaton is an adequate model for checking balanced parentheses in program code.,finite automata,5,ai_generated,Evaluate
+"A DFA for ""strings containing 101"" returns to its start state after reading 1, 0, 0. Assess whether this design decision is correct.",finite automata,5,ai_generated,Evaluate
+"Decide whether a DFA diagram or a regular expression is the better specification for a lexical analyzer's token rules, and defend your choice.",finite automata,5,ai_generated,Evaluate
+"Critique the argument ""Since every NFA can be converted into a DFA, NFAs are useless in practice.""",finite automata,5,ai_generated,Evaluate
+"A student claims that if g ∘ f is injective, then g must be injective. Evaluate the claim and justify your answer.",functions,5,ai_generated,Evaluate
+"Judge whether f(x) = 1/(x − 2) defines a function from ℝ to ℝ, and correct the definition if necessary.",functions,5,ai_generated,Evaluate
+"Assess the argument: ""f is surjective because for every y in the codomain I can take x = f⁻¹(y).""",functions,5,ai_generated,Evaluate
+"Decide whether ⌊x⌋ + ⌈x⌉ = 2x is an identity for all real x, and justify your answer.",functions,5,ai_generated,Evaluate
+Critique the use of a non-injective function to encode user passwords in a login system.,functions,5,ai_generated,Evaluate
+A student claims that every finite graph in which all vertices have degree at least 2 contains a cycle. Evaluate this claim.,graph theory,5,ai_generated,Evaluate
+"Judge whether it is possible for each of 7 people to shake hands with exactly 3 of the others, and justify your answer.",graph theory,5,ai_generated,Evaluate
+Assess whether Dijkstra's algorithm gives correct results on graphs with negative edge weights.,graph theory,5,ai_generated,Evaluate
+"Decide whether breadth-first or depth-first search is more appropriate for finding the fewest-hops connection in a social network, and defend your choice.",graph theory,5,ai_generated,Evaluate
+"Critique the statement ""If a graph has a Hamilton circuit, it must also have an Euler circuit.""",graph theory,5,ai_generated,Evaluate
+"A student claims that if a ≡ b (mod m), then aᶜ ≡ bᶜ (mod m) for every positive integer c. Evaluate this claim.",number theory,5,ai_generated,Evaluate
+"Judge the claim ""if ac ≡ bc (mod m), then a ≡ b (mod m)"", and specify when it is true.",number theory,5,ai_generated,Evaluate
+"Assess whether a 512-bit RSA modulus is secure today, and justify your answer.",number theory,5,ai_generated,Evaluate
+"Decide whether n² + n + 41 is prime for every non-negative integer n, and justify your answer.",number theory,5,ai_generated,Evaluate
+"Critique the argument ""every odd number greater than 1 is prime, because 3, 5, and 7 are prime.""",number theory,5,ai_generated,Evaluate
+A student claims that every finite poset has a greatest element. Evaluate this claim.,partially ordered sets,5,ai_generated,Evaluate
+"Judge whether the lexicographic order on pairs of integers is a well-ordering, and justify your answer.",partially ordered sets,5,ai_generated,Evaluate
+"Assess whether ""is at least as tall as"" on a set of people is a partial order.",partially ordered sets,5,ai_generated,Evaluate
+"Decide whether every lattice has a least element, and justify your answer.",partially ordered sets,5,ai_generated,Evaluate
+Critique the choice of a partial order rather than a total order for modeling task dependencies in a project plan.,partially ordered sets,5,ai_generated,Evaluate
+"A textbook states that ∃x ∀y L(x, y) implies ∀y ∃x L(x, y). Evaluate whether this is correct and justify your answer.",predicate logic,5,ai_generated,Evaluate
+"A student translated ""No dog is a cat"" as ∀x (Dog(x) ∧ ¬Cat(x)). Judge the translation and propose a correct version if necessary.",predicate logic,5,ai_generated,Evaluate
+"Assess whether concluding ∀x P(x) from P(c) for one specific c is a sound inference, and state when universal generalization is allowed.",predicate logic,5,ai_generated,Evaluate
+"Two formalizations of ""Only students can enter"" are offered: ∀x (Enter(x) → Student(x)) and ∀x (Student(x) → Enter(x)). Decide which is correct and defend your choice.",predicate logic,5,ai_generated,Evaluate
+Critique the claim that predicate logic is unnecessary because every mathematical statement can be expressed in propositional logic.,predicate logic,5,ai_generated,Evaluate
+"Evaluate the classic inductive ""proof"" that all horses are the same color, and identify exactly where it fails.",proof techniques,5,ai_generated,Evaluate
+"A student ""proves"" that n even implies n² even by checking n = 2, 4, and 6. Judge the validity of this approach.",proof techniques,5,ai_generated,Evaluate
+"Assess whether a proof by contradiction that never uses its assumption is still a valid proof, and explain.",proof techniques,5,ai_generated,Evaluate
+"Decide whether strong induction is needed to prove that every integer greater than 1 is a product of primes, and justify your answer.",proof techniques,5,ai_generated,Evaluate
+"Critique the conclusion ""the statement is true because a computer search found no counterexample up to 10⁹.""",proof techniques,5,ai_generated,Evaluate
+A student claims that (p → q) → r is equivalent to p → (q → r). Judge whether the claim is correct and justify your verdict.,propositional logic,5,ai_generated,Evaluate
+"Assess the validity of the argument: ""If I study, I pass. I passed. Therefore, I studied."" Name the fallacy, if any.",propositional logic,5,ai_generated,Evaluate
+Two students simplified ¬(p ∨ ¬q); one got ¬p ∧ q and the other ¬p ∨ q. Decide which answer is correct and critique the error in the other.,propositional logic,5,ai_generated,Evaluate
+Is a truth table or natural deduction the better method for verifying a formula with 12 variables? Defend your choice.,propositional logic,5,ai_generated,Evaluate
+"Critique the following reasoning: ""p → q and q → p are both true when p and q are true, so they are equivalent.""",propositional logic,5,ai_generated,Evaluate
+A student solved aₙ = 2aₙ₋₁ with a₀ = 3 and obtained aₙ = 2ⁿ + 3. Evaluate the solution.,recurrence relations,5,ai_generated,Evaluate
+"Judge whether the naive recursive algorithm for Fibonacci numbers is efficient, and justify your answer using its recurrence.",recurrence relations,5,ai_generated,Evaluate
+"Assess whether the basic form of the master theorem applies to T(n) = 2T(n/2) + n log n, and justify your answer.",recurrence relations,5,ai_generated,Evaluate
+"Decide whether iteration or the characteristic-equation method is more appropriate for solving aₙ = aₙ₋₁ + 3, and defend your choice.",recurrence relations,5,ai_generated,Evaluate
+Critique the claim that every recurrence relation has a closed-form solution.,recurrence relations,5,ai_generated,Evaluate
+A student claims that every symmetric and transitive relation is reflexive. Evaluate this claim and justify your answer.,relations,5,ai_generated,Evaluate
+"Judge whether the relation ""differs in height by less than 2 cm"" is suitable for sorting people into height categories, considering its properties.",relations,5,ai_generated,Evaluate
+"Assess whether Warshall's algorithm or repeated matrix multiplication is more efficient for computing the transitive closure of a relation on 1,000 elements.",relations,5,ai_generated,Evaluate
+"A database designer models the relation ""directly manages"" as transitive. Critique this modeling decision.",relations,5,ai_generated,Evaluate
+"Decide whether the union of two transitive relations is always transitive, and justify your answer.",relations,5,ai_generated,Evaluate
+A student claims that A \ (B \ C) = (A \ B) \ C for all sets. Decide whether this is true and justify your answer with a proof or counterexample.,set theory,5,ai_generated,Evaluate
+"Evaluate the statement ""P(A ∪ B) = P(A) ∪ P(B) for all sets A and B.""",set theory,5,ai_generated,Evaluate
+One proof of De Morgan's law for sets uses a Venn diagram; another uses an element-chasing argument. Judge which one is a rigorous proof and explain why.,set theory,5,ai_generated,Evaluate
+"Assess whether the collection of all sets that do not contain themselves can be a set, and defend your conclusion.",set theory,5,ai_generated,Evaluate
+"A survey reports that 60% of people read news online, 50% read print news, and 5% read neither. Judge whether these figures are consistent and justify your answer.",set theory,5,ai_generated,Evaluate
+A student claims that every tree with at least two vertices has at least two leaves. Evaluate this claim and justify it.,trees,5,ai_generated,Evaluate
+Judge whether an unbalanced binary search tree is a good structure for data that arrive already sorted in increasing order.,trees,5,ai_generated,Evaluate
+"Assess the claim that a Huffman code is always shorter on average than a fixed-length code, for any symbol frequencies.",trees,5,ai_generated,Evaluate
+"Decide whether a comparison-based decision tree with 6 leaves can sort every ordering of 3 distinct elements, and justify your answer.",trees,5,ai_generated,Evaluate
+"Critique a proof that concludes a connected graph with n vertices and n − 1 edges is a tree ""because it has the right number of edges.""",trees,5,ai_generated,Evaluate
+Design a three-input majority circuit that outputs 1 when at least two inputs are 1.,Boolean algebra,6,ai_generated,Create
+"Construct a full adder from two half adders and an OR gate, and write the Boolean expressions for its outputs.",Boolean algebra,3,ai_generated,Apply
+"Create a Boolean function of four variables that equals 1 exactly when the input, read as a binary number, is prime, and minimize it.",Boolean algebra,6,ai_generated,Create
+Devise a circuit that lets a hallway light be controlled independently by three switches.,Boolean algebra,6,ai_generated,Create
+"Formulate Boolean conditions for an alarm that sounds when a door or window is open while the system is armed, and implement them with gates.",Boolean algebra,6,ai_generated,Create
+"Design an algorithm that decides whether a list contains duplicate elements in O(n log n) time, and justify its complexity.",algorithms,6,ai_generated,Create
+"Devise a greedy algorithm that schedules the maximum number of non-overlapping meetings in one room, and argue that it is optimal.",algorithms,6,ai_generated,Create
+"Create an algorithm that checks whether a string is a palindrome, and analyze its time complexity.",algorithms,6,ai_generated,Create
+"Construct an algorithm that merges two sorted lists into one sorted list, and prove its correctness.",algorithms,6,ai_generated,Create
+"Formulate a real-world problem suited to a divide-and-conquer algorithm, and outline the algorithm.",algorithms,6,ai_generated,Create
+"Create an original word problem whose answer is given by C(n + k − 1, k − 1), and provide its solution.",combinatorics,6,ai_generated,Create
+"Devise a combinatorial proof of the identity C(2n, n) = Σ C(n, k)².",combinatorics,6,ai_generated,Create
+"Design a password policy that allows at least 10¹² different passwords, and calculate the exact number it allows.",combinatorics,6,ai_generated,Create
+"Formulate a counting problem that requires both inclusion–exclusion and the product rule, and solve it.",combinatorics,6,ai_generated,Create
+Construct an example showing that the bound in the generalized pigeonhole principle cannot be improved.,combinatorics,6,ai_generated,Create
+"Design an equivalence relation on a set of 10 students that has exactly 3 classes, and describe the classes.",equivalence relations,6,ai_generated,Create
+Construct an equivalence relation on functions from ℝ to ℝ based on their behavior as x → ∞.,equivalence relations,6,ai_generated,Create
+"Create the partition of all binary strings of length 4 into classes of strings that are rotations of one another, and count the classes.",equivalence relations,3,ai_generated,Apply
+"Devise an equivalence relation on the states of a finite automaton that could be used to minimize it, and justify its properties.",equivalence relations,6,ai_generated,Create
+"Formulate an equivalence relation for detecting duplicate customer records in a database, and discuss whether it is truly transitive.",equivalence relations,6,ai_generated,Create
+Design a DFA for a vending machine that accepts 5- and 10-unit coins and dispenses a product once at least 20 units have been inserted.,finite automata,6,ai_generated,Create
+Construct a finite automaton that recognizes identifiers of the form letters@letters.letters.,finite automata,6,ai_generated,Create
+Create a regular expression and an equivalent DFA for binary strings in which every 1 is immediately followed by a 0.,finite automata,3,ai_generated,Apply
+"Devise a finite-state model of a coin-operated turnstile, specifying its states, inputs, and transitions.",finite automata,6,ai_generated,Create
+"Formulate a regular language whose minimal DFA has exactly 5 states, and justify its minimality.",finite automata,6,ai_generated,Create
+"Construct a bijection between the intervals (0, 1) and (0, 5).",functions,3,ai_generated,Apply
+"Design an injective function from ℕ × ℕ to ℕ, and prove that it is injective.",functions,6,ai_generated,Create
+Create functions f and g such that g ∘ f is bijective but neither f nor g is bijective.,functions,6,ai_generated,Create
+"Devise a function that encodes the days of a non-leap year as numbers from 1 to 365, and describe its inverse.",functions,6,ai_generated,Create
+"Formulate a real-world process that can be modeled as a composition of three functions, and specify each function's domain and codomain.",functions,6,ai_generated,Create
+"Design a graph model for scheduling final exams so that no student has two exams at the same time, and explain how graph coloring solves the problem.",graph theory,6,ai_generated,Create
+Construct a connected graph with 6 vertices that has an Euler circuit but no Hamilton circuit.,graph theory,6,ai_generated,Create
+Create two non-isomorphic graphs with the same degree sequence and prove that they are not isomorphic.,graph theory,6,ai_generated,Create
+Devise a graph model of a city's metro network and propose which graph algorithms would help passengers plan trips.,graph theory,6,ai_generated,Create
+"Formulate an original problem that is solved by finding a minimum spanning tree, and solve a small instance of it.",graph theory,6,ai_generated,Create
+"Design a check-digit scheme for student ID numbers that detects any single-digit error, and explain why it works.",number theory,6,ai_generated,Create
+"Construct a small RSA key pair from the primes p = 5 and q = 11, and use it to encrypt the message m = 9.",number theory,3,ai_generated,Apply
+Create a divisibility test for 11 and prove that it works.,number theory,6,ai_generated,Create
+"Formulate a real-life scheduling problem that can be solved with the Chinese Remainder Theorem, and solve it.",number theory,6,ai_generated,Create
+"Devise an algorithm that computes aⁿ mod m by repeated squaring, and illustrate it on 3⁴⁵ mod 7.",number theory,3,ai_generated,Apply
+"Design a poset with exactly two maximal elements and one minimal element, and draw its Hasse diagram.",partially ordered sets,6,ai_generated,Create
+"Construct a poset describing the stages of building a house, and find a valid order in which to carry out the stages.",partially ordered sets,6,ai_generated,Create
+"Create an example of a finite poset that is not a lattice, and justify why.",partially ordered sets,6,ai_generated,Create
+"Devise an ordering on software version numbers such as 2.10.1 and 2.9.3, and prove that it is a total order.",partially ordered sets,6,ai_generated,Create
+"Formulate a real-world ranking situation that is naturally a partial order rather than a total order, and model it formally.",partially ordered sets,6,ai_generated,Create
+"Design a small domain and an interpretation of R in which ∀x ∃y R(x, y) is true but ∃y ∀x R(x, y) is false.",predicate logic,6,ai_generated,Create
+"Formulate predicate-logic axioms describing a school timetable (teachers, rooms, time slots) that guarantee no room is double-booked.",predicate logic,6,ai_generated,Create
+"Construct a formal definition of ""f is surjective"" using quantifiers, and then derive a quantifier form of its negation.",predicate logic,3,ai_generated,Apply
+"Compose three English sentences with nested quantifiers whose formal translations use different quantifier orders, and give each translation.",predicate logic,6,ai_generated,Create
+"Develop a predicate-logic specification of the rule ""Every user with admin rights can delete any file owned by a user without admin rights.""",predicate logic,6,ai_generated,Create
+Formulate a conjecture about the sum of the first n odd numbers and prove it.,proof techniques,6,ai_generated,Create
+Construct an induction proof that every postage amount of 12 cents or more can be formed from 4-cent and 5-cent stamps.,proof techniques,3,ai_generated,Apply
+"Create a false statement together with a plausible but flawed proof, suitable for training students to find errors.",proof techniques,6,ai_generated,Create
+Devise a proof that there is no smallest positive rational number.,proof techniques,3,ai_generated,Apply
+"Design a combinatorial proof of the identity n·C(n − 1, k − 1) = k·C(n, k).",proof techniques,6,ai_generated,Create
+Design a propositional formula in three variables that is true exactly when an odd number of the variables are true.,propositional logic,6,ai_generated,Create
+Devise a set of logical specifications for a traffic-light controller and show that they are consistent.,propositional logic,6,ai_generated,Create
+"Compose a knights-and-knaves puzzle whose solution requires propositional reasoning, and provide its solution.",propositional logic,6,ai_generated,Create
+"Create a valid rule of inference different from modus ponens and modus tollens, and prove its validity with a truth table.",propositional logic,6,ai_generated,Create
+"Invent a propositional encoding of the rules of a simple board game move (for example, when a piece may move), and explain what each variable means.",propositional logic,6,ai_generated,Create
+"Formulate a recurrence that models a savings account with a fixed monthly deposit and monthly interest, and solve it.",recurrence relations,6,ai_generated,Create
+"Design a counting problem whose answer satisfies aₙ = aₙ₋₁ + aₙ₋₂ + aₙ₋₃, and justify the recurrence.",recurrence relations,6,ai_generated,Create
+"Create a divide-and-conquer algorithm for finding the maximum of a list, write its recurrence, and solve it.",recurrence relations,6,ai_generated,Create
+"Construct a population model for animals that reproduce in their second and third months and die after three months, express it as a recurrence, and compute its first eight terms.",recurrence relations,6,ai_generated,Create
+"Devise a recurrence for the number of ways to tile a 2 × n board with 1 × 2 dominoes, and prove that it is correct.",recurrence relations,6,ai_generated,Create
+"Construct a relation on {1, 2, 3, 4} that is reflexive and symmetric but not transitive.",relations,6,ai_generated,Create
+"Design a relation on a set of web pages that could be used to rank the pages, and describe its properties.",relations,6,ai_generated,Create
+"Create an example of a relation that is both symmetric and antisymmetric, and characterize all such relations.",relations,6,ai_generated,Create
+"Devise an algorithm that checks whether a relation given as a list of pairs is transitive, and estimate its running time.",relations,6,ai_generated,Create
+"Formulate a real-world scenario in which the composition of two relations yields useful new information, and define the relations formally.",relations,6,ai_generated,Create
+"Design three sets A, B, C such that every two of them intersect but A ∩ B ∩ C = ∅.",set theory,6,ai_generated,Create
+Construct a bijection between the natural numbers and the integers to show that they have the same cardinality.,set theory,3,ai_generated,Apply
+"Formulate a realistic survey problem that requires the three-set inclusion–exclusion principle, and solve it.",set theory,6,ai_generated,Create
+"Devise a way to represent subsets of a 16-element set as bit strings, and describe how union, intersection, and complement would be computed.",set theory,6,ai_generated,Create
+Propose your own version of Cantor's diagonal argument showing that the set of infinite binary sequences is uncountable.,set theory,6,ai_generated,Create
+Design a decision tree that finds a single counterfeit (lighter) coin among 8 coins using a balance scale in the fewest weighings.,trees,6,ai_generated,Create
+Construct a binary tree whose inorder traversal is D B E A F C and whose preorder traversal is A B D E C F.,trees,3,ai_generated,Apply
+"Create a rooted tree that models the structure of a university faculty, and describe what its height and leaves represent.",trees,6,ai_generated,Create
+Devise a prefix code for five symbols of your choice and show that it is uniquely decodable.,trees,6,ai_generated,Create
+"Develop an algorithm, in pseudocode, that counts the leaves of a binary tree.",trees,3,ai_generated,Apply
+State the definition of a key concept from propositional logic.,propositional logic,1,original_template,Remember
+Explain the main idea underlying predicate logic.,predicate logic,2,original_template,Understand
+Solve a problem using methods from set theory.,set theory,3,original_template,Apply
+Analyze the structure or properties of an example in relations.,relations,4,original_template,Analyze
+Determine whether a proposed solution in functions is correct and justify your answer.,functions,5,original_template,Evaluate
+"Construct an original example, proof, or model related to combinatorics.",combinatorics,6,original_template,Create
+State the definition of a key concept from graph theory.,graph theory,1,original_template,Remember
+Explain the main idea underlying trees.,trees,2,original_template,Understand
+Solve a problem using methods from Boolean algebra.,Boolean algebra,3,original_template,Apply
+Analyze the structure or properties of an example in proof techniques.,proof techniques,4,original_template,Analyze
+Determine whether a proposed solution in number theory is correct and justify your answer.,number theory,5,original_template,Evaluate
+"Construct an original example, proof, or model related to recurrence relations.",recurrence relations,6,original_template,Create
+State the definition of a key concept from finite automata.,finite automata,1,original_template,Remember
+Explain the main idea underlying partially ordered sets.,partially ordered sets,2,original_template,Understand
+Solve a problem using methods from equivalence relations.,equivalence relations,3,original_template,Apply
+Analyze the structure or properties of an example in algorithms.,algorithms,4,original_template,Analyze
+Determine whether a proposed solution in propositional logic is correct and justify your answer.,propositional logic,5,original_template,Evaluate
+"Construct an original example, proof, or model related to predicate logic.",predicate logic,6,original_template,Create
+State the definition of a key concept from set theory.,set theory,1,original_template,Remember
+Explain the main idea underlying relations.,relations,2,original_template,Understand
+Solve a problem using methods from functions.,functions,3,original_template,Apply
+Analyze the structure or properties of an example in combinatorics.,combinatorics,4,original_template,Analyze
+Determine whether a proposed solution in graph theory is correct and justify your answer.,graph theory,5,original_template,Evaluate
+"Construct an original example, proof, or model related to trees.",trees,6,original_template,Create
+State the definition of a key concept from Boolean algebra.,Boolean algebra,1,original_template,Remember
+Explain the main idea underlying proof techniques.,proof techniques,2,original_template,Understand
+Solve a problem using methods from number theory.,number theory,3,original_template,Apply
+Analyze the structure or properties of an example in recurrence relations.,recurrence relations,4,original_template,Analyze
+Determine whether a proposed solution in finite automata is correct and justify your answer.,finite automata,5,original_template,Evaluate
+"Construct an original example, proof, or model related to partially ordered sets.",partially ordered sets,6,original_template,Create
+State the definition of a key concept from equivalence relations.,equivalence relations,1,original_template,Remember
+Explain the main idea underlying algorithms.,algorithms,2,original_template,Understand
+Solve a problem using methods from propositional logic.,propositional logic,3,original_template,Apply
+Analyze the structure or properties of an example in predicate logic.,predicate logic,4,original_template,Analyze
+Determine whether a proposed solution in set theory is correct and justify your answer.,set theory,5,original_template,Evaluate
+"Construct an original example, proof, or model related to relations.",relations,6,original_template,Create
+State the definition of a key concept from functions.,functions,1,original_template,Remember
+Explain the main idea underlying combinatorics.,combinatorics,2,original_template,Understand
+Solve a problem using methods from graph theory.,graph theory,3,original_template,Apply
+Analyze the structure or properties of an example in trees.,trees,4,original_template,Analyze
+Determine whether a proposed solution in Boolean algebra is correct and justify your answer.,Boolean algebra,5,original_template,Evaluate
+"Construct an original example, proof, or model related to proof techniques.",proof techniques,6,original_template,Create
+State the definition of a key concept from number theory.,number theory,1,original_template,Remember
+Explain the main idea underlying recurrence relations.,recurrence relations,2,original_template,Understand
+Solve a problem using methods from finite automata.,finite automata,3,original_template,Apply
+Analyze the structure or properties of an example in partially ordered sets.,partially ordered sets,4,original_template,Analyze
+Determine whether a proposed solution in equivalence relations is correct and justify your answer.,equivalence relations,5,original_template,Evaluate
+"Construct an original example, proof, or model related to algorithms.",algorithms,6,original_template,Create

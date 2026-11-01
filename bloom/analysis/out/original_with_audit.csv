@@ -1,0 +1,501 @@
+﻿id,question,topic,template_id,bloom_level,bloom_level_id,R,actionable,problem
+DM001,State the definition of a key concept from propositional logic.,propositional logic,T1,Remember,1,1,1,
+DM002,Explain the main idea underlying predicate logic.,predicate logic,T2,Understand,2,2,1,
+DM003,Solve a problem using methods from set theory.,set theory,T3,Apply,3,3,0,item contains no task content
+DM004,Analyze the structure or properties of an example in relations.,relations,T4,Analyze,4,4,0,item contains no task content
+DM005,Determine whether a proposed solution in functions is correct and justify your answer.,functions,T5,Evaluate,5,5,0,item contains no task content
+DM006,"Construct an original example, proof, or model related to combinatorics.",combinatorics,T6,Create,6,6,1,
+DM007,State the definition of a key concept from graph theory.,graph theory,T1,Remember,1,1,1,
+DM008,Explain the main idea underlying trees.,trees,T2,Understand,2,2,1,
+DM009,Solve a problem using methods from Boolean algebra.,Boolean algebra,T3,Apply,3,3,0,item contains no task content
+DM010,Analyze the structure or properties of an example in proof techniques.,proof techniques,T4,Analyze,4,4,0,item contains no task content
+DM011,Determine whether a proposed solution in number theory is correct and justify your answer.,number theory,T5,Evaluate,5,5,0,item contains no task content
+DM012,"Construct an original example, proof, or model related to recurrence relations.",recurrence relations,T6,Create,6,6,1,
+DM013,State the definition of a key concept from finite automata.,finite automata,T1,Remember,1,1,1,
+DM014,Explain the main idea underlying partially ordered sets.,partially ordered sets,T2,Understand,2,2,1,
+DM015,Solve a problem using methods from equivalence relations.,equivalence relations,T3,Apply,3,3,0,item contains no task content
+DM016,Analyze the structure or properties of an example in algorithms.,algorithms,T4,Analyze,4,4,0,item contains no task content
+DM017,Determine whether a proposed solution in propositional logic is correct and justify your answer.,propositional logic,T5,Evaluate,5,5,0,item contains no task content
+DM018,"Construct an original example, proof, or model related to predicate logic.",predicate logic,T6,Create,6,6,1,
+DM019,State the definition of a key concept from set theory.,set theory,T1,Remember,1,1,1,
+DM020,Explain the main idea underlying relations.,relations,T2,Understand,2,2,1,
+DM021,Solve a problem using methods from functions.,functions,T3,Apply,3,3,0,item contains no task content
+DM022,Analyze the structure or properties of an example in combinatorics.,combinatorics,T4,Analyze,4,4,0,item contains no task content
+DM023,Determine whether a proposed solution in graph theory is correct and justify your answer.,graph theory,T5,Evaluate,5,5,0,item contains no task content
+DM024,"Construct an original example, proof, or model related to trees.",trees,T6,Create,6,6,1,
+DM025,State the definition of a key concept from Boolean algebra.,Boolean algebra,T1,Remember,1,1,1,
+DM026,Explain the main idea underlying proof techniques.,proof techniques,T2,Understand,2,2,1,
+DM027,Solve a problem using methods from number theory.,number theory,T3,Apply,3,3,0,item contains no task content
+DM028,Analyze the structure or properties of an example in recurrence relations.,recurrence relations,T4,Analyze,4,4,0,item contains no task content
+DM029,Determine whether a proposed solution in finite automata is correct and justify your answer.,finite automata,T5,Evaluate,5,5,0,item contains no task content
+DM030,"Construct an original example, proof, or model related to partially ordered sets.",partially ordered sets,T6,Create,6,6,1,
+DM031,State the definition of a key concept from equivalence relations.,equivalence relations,T1,Remember,1,1,1,
+DM032,Explain the main idea underlying algorithms.,algorithms,T2,Understand,2,2,1,
+DM033,Solve a problem using methods from propositional logic.,propositional logic,T3,Apply,3,3,0,item contains no task content
+DM034,Analyze the structure or properties of an example in predicate logic.,predicate logic,T4,Analyze,4,4,0,item contains no task content
+DM035,Determine whether a proposed solution in set theory is correct and justify your answer.,set theory,T5,Evaluate,5,5,0,item contains no task content
+DM036,"Construct an original example, proof, or model related to relations.",relations,T6,Create,6,6,1,
+DM037,State the definition of a key concept from functions.,functions,T1,Remember,1,1,1,
+DM038,Explain the main idea underlying combinatorics.,combinatorics,T2,Understand,2,2,1,
+DM039,Solve a problem using methods from graph theory.,graph theory,T3,Apply,3,3,0,item contains no task content
+DM040,Analyze the structure or properties of an example in trees.,trees,T4,Analyze,4,4,0,item contains no task content
+DM041,Determine whether a proposed solution in Boolean algebra is correct and justify your answer.,Boolean algebra,T5,Evaluate,5,5,0,item contains no task content
+DM042,"Construct an original example, proof, or model related to proof techniques.",proof techniques,T6,Create,6,6,1,
+DM043,State the definition of a key concept from number theory.,number theory,T1,Remember,1,1,1,
+DM044,Explain the main idea underlying recurrence relations.,recurrence relations,T2,Understand,2,2,1,
+DM045,Solve a problem using methods from finite automata.,finite automata,T3,Apply,3,3,0,item contains no task content
+DM046,Analyze the structure or properties of an example in partially ordered sets.,partially ordered sets,T4,Analyze,4,4,0,item contains no task content
+DM047,Determine whether a proposed solution in equivalence relations is correct and justify your answer.,equivalence relations,T5,Evaluate,5,5,0,item contains no task content
+DM048,"Construct an original example, proof, or model related to algorithms.",algorithms,T6,Create,6,6,1,
+DM049,State the definition of a key concept from propositional logic.,propositional logic,T1,Remember,1,1,1,
+DM050,Explain the main idea underlying predicate logic.,predicate logic,T2,Understand,2,2,1,
+DM051,Solve a problem using methods from set theory.,set theory,T3,Apply,3,3,0,item contains no task content
+DM052,Analyze the structure or properties of an example in relations.,relations,T4,Analyze,4,4,0,item contains no task content
+DM053,Determine whether a proposed solution in functions is correct and justify your answer.,functions,T5,Evaluate,5,5,0,item contains no task content
+DM054,"Construct an original example, proof, or model related to combinatorics.",combinatorics,T6,Create,6,6,1,
+DM055,State the definition of a key concept from graph theory.,graph theory,T1,Remember,1,1,1,
+DM056,Explain the main idea underlying trees.,trees,T2,Understand,2,2,1,
+DM057,Solve a problem using methods from Boolean algebra.,Boolean algebra,T3,Apply,3,3,0,item contains no task content
+DM058,Analyze the structure or properties of an example in proof techniques.,proof techniques,T4,Analyze,4,4,0,item contains no task content
+DM059,Determine whether a proposed solution in number theory is correct and justify your answer.,number theory,T5,Evaluate,5,5,0,item contains no task content
+DM060,"Construct an original example, proof, or model related to recurrence relations.",recurrence relations,T6,Create,6,6,1,
+DM061,State the definition of a key concept from finite automata.,finite automata,T1,Remember,1,1,1,
+DM062,Explain the main idea underlying partially ordered sets.,partially ordered sets,T2,Understand,2,2,1,
+DM063,Solve a problem using methods from equivalence relations.,equivalence relations,T3,Apply,3,3,0,item contains no task content
+DM064,Analyze the structure or properties of an example in algorithms.,algorithms,T4,Analyze,4,4,0,item contains no task content
+DM065,Determine whether a proposed solution in propositional logic is correct and justify your answer.,propositional logic,T5,Evaluate,5,5,0,item contains no task content
+DM066,"Construct an original example, proof, or model related to predicate logic.",predicate logic,T6,Create,6,6,1,
+DM067,State the definition of a key concept from set theory.,set theory,T1,Remember,1,1,1,
+DM068,Explain the main idea underlying relations.,relations,T2,Understand,2,2,1,
+DM069,Solve a problem using methods from functions.,functions,T3,Apply,3,3,0,item contains no task content
+DM070,Analyze the structure or properties of an example in combinatorics.,combinatorics,T4,Analyze,4,4,0,item contains no task content
+DM071,Determine whether a proposed solution in graph theory is correct and justify your answer.,graph theory,T5,Evaluate,5,5,0,item contains no task content
+DM072,"Construct an original example, proof, or model related to trees.",trees,T6,Create,6,6,1,
+DM073,State the definition of a key concept from Boolean algebra.,Boolean algebra,T1,Remember,1,1,1,
+DM074,Explain the main idea underlying proof techniques.,proof techniques,T2,Understand,2,2,1,
+DM075,Solve a problem using methods from number theory.,number theory,T3,Apply,3,3,0,item contains no task content
+DM076,Analyze the structure or properties of an example in recurrence relations.,recurrence relations,T4,Analyze,4,4,0,item contains no task content
+DM077,Determine whether a proposed solution in finite automata is correct and justify your answer.,finite automata,T5,Evaluate,5,5,0,item contains no task content
+DM078,"Construct an original example, proof, or model related to partially ordered sets.",partially ordered sets,T6,Create,6,6,1,
+DM079,State the definition of a key concept from equivalence relations.,equivalence relations,T1,Remember,1,1,1,
+DM080,Explain the main idea underlying algorithms.,algorithms,T2,Understand,2,2,1,
+DM081,Solve a problem using methods from propositional logic.,propositional logic,T3,Apply,3,3,0,item contains no task content
+DM082,Analyze the structure or properties of an example in predicate logic.,predicate logic,T4,Analyze,4,4,0,item contains no task content
+DM083,Determine whether a proposed solution in set theory is correct and justify your answer.,set theory,T5,Evaluate,5,5,0,item contains no task content
+DM084,"Construct an original example, proof, or model related to relations.",relations,T6,Create,6,6,1,
+DM085,State the definition of a key concept from functions.,functions,T1,Remember,1,1,1,
+DM086,Explain the main idea underlying combinatorics.,combinatorics,T2,Understand,2,2,1,
+DM087,Solve a problem using methods from graph theory.,graph theory,T3,Apply,3,3,0,item contains no task content
+DM088,Analyze the structure or properties of an example in trees.,trees,T4,Analyze,4,4,0,item contains no task content
+DM089,Determine whether a proposed solution in Boolean algebra is correct and justify your answer.,Boolean algebra,T5,Evaluate,5,5,0,item contains no task content
+DM090,"Construct an original example, proof, or model related to proof techniques.",proof techniques,T6,Create,6,6,1,
+DM091,State the definition of a key concept from number theory.,number theory,T1,Remember,1,1,1,
+DM092,Explain the main idea underlying recurrence relations.,recurrence relations,T2,Understand,2,2,1,
+DM093,Solve a problem using methods from finite automata.,finite automata,T3,Apply,3,3,0,item contains no task content
+DM094,Analyze the structure or properties of an example in partially ordered sets.,partially ordered sets,T4,Analyze,4,4,0,item contains no task content
+DM095,Determine whether a proposed solution in equivalence relations is correct and justify your answer.,equivalence relations,T5,Evaluate,5,5,0,item contains no task content
+DM096,"Construct an original example, proof, or model related to algorithms.",algorithms,T6,Create,6,6,1,
+DM097,State the definition of a key concept from propositional logic.,propositional logic,T1,Remember,1,1,1,
+DM098,Explain the main idea underlying predicate logic.,predicate logic,T2,Understand,2,2,1,
+DM099,Solve a problem using methods from set theory.,set theory,T3,Apply,3,3,0,item contains no task content
+DM100,Analyze the structure or properties of an example in relations.,relations,T4,Analyze,4,4,0,item contains no task content
+DM101,Determine whether a proposed solution in functions is correct and justify your answer.,functions,T5,Evaluate,5,5,0,item contains no task content
+DM102,"Construct an original example, proof, or model related to combinatorics.",combinatorics,T6,Create,6,6,1,
+DM103,State the definition of a key concept from graph theory.,graph theory,T1,Remember,1,1,1,
+DM104,Explain the main idea underlying trees.,trees,T2,Understand,2,2,1,
+DM105,Solve a problem using methods from Boolean algebra.,Boolean algebra,T3,Apply,3,3,0,item contains no task content
+DM106,Analyze the structure or properties of an example in proof techniques.,proof techniques,T4,Analyze,4,4,0,item contains no task content
+DM107,Determine whether a proposed solution in number theory is correct and justify your answer.,number theory,T5,Evaluate,5,5,0,item contains no task content
+DM108,"Construct an original example, proof, or model related to recurrence relations.",recurrence relations,T6,Create,6,6,1,
+DM109,State the definition of a key concept from finite automata.,finite automata,T1,Remember,1,1,1,
+DM110,Explain the main idea underlying partially ordered sets.,partially ordered sets,T2,Understand,2,2,1,
+DM111,Solve a problem using methods from equivalence relations.,equivalence relations,T3,Apply,3,3,0,item contains no task content
+DM112,Analyze the structure or properties of an example in algorithms.,algorithms,T4,Analyze,4,4,0,item contains no task content
+DM113,Determine whether a proposed solution in propositional logic is correct and justify your answer.,propositional logic,T5,Evaluate,5,5,0,item contains no task content
+DM114,"Construct an original example, proof, or model related to predicate logic.",predicate logic,T6,Create,6,6,1,
+DM115,State the definition of a key concept from set theory.,set theory,T1,Remember,1,1,1,
+DM116,Explain the main idea underlying relations.,relations,T2,Understand,2,2,1,
+DM117,Solve a problem using methods from functions.,functions,T3,Apply,3,3,0,item contains no task content
+DM118,Analyze the structure or properties of an example in combinatorics.,combinatorics,T4,Analyze,4,4,0,item contains no task content
+DM119,Determine whether a proposed solution in graph theory is correct and justify your answer.,graph theory,T5,Evaluate,5,5,0,item contains no task content
+DM120,"Construct an original example, proof, or model related to trees.",trees,T6,Create,6,6,1,
+DM121,State the definition of a key concept from Boolean algebra.,Boolean algebra,T1,Remember,1,1,1,
+DM122,Explain the main idea underlying proof techniques.,proof techniques,T2,Understand,2,2,1,
+DM123,Solve a problem using methods from number theory.,number theory,T3,Apply,3,3,0,item contains no task content
+DM124,Analyze the structure or properties of an example in recurrence relations.,recurrence relations,T4,Analyze,4,4,0,item contains no task content
+DM125,Determine whether a proposed solution in finite automata is correct and justify your answer.,finite automata,T5,Evaluate,5,5,0,item contains no task content
+DM126,"Construct an original example, proof, or model related to partially ordered sets.",partially ordered sets,T6,Create,6,6,1,
+DM127,State the definition of a key concept from equivalence relations.,equivalence relations,T1,Remember,1,1,1,
+DM128,Explain the main idea underlying algorithms.,algorithms,T2,Understand,2,2,1,
+DM129,Solve a problem using methods from propositional logic.,propositional logic,T3,Apply,3,3,0,item contains no task content
+DM130,Analyze the structure or properties of an example in predicate logic.,predicate logic,T4,Analyze,4,4,0,item contains no task content
+DM131,Determine whether a proposed solution in set theory is correct and justify your answer.,set theory,T5,Evaluate,5,5,0,item contains no task content
+DM132,"Construct an original example, proof, or model related to relations.",relations,T6,Create,6,6,1,
+DM133,State the definition of a key concept from functions.,functions,T1,Remember,1,1,1,
+DM134,Explain the main idea underlying combinatorics.,combinatorics,T2,Understand,2,2,1,
+DM135,Solve a problem using methods from graph theory.,graph theory,T3,Apply,3,3,0,item contains no task content
+DM136,Analyze the structure or properties of an example in trees.,trees,T4,Analyze,4,4,0,item contains no task content
+DM137,Determine whether a proposed solution in Boolean algebra is correct and justify your answer.,Boolean algebra,T5,Evaluate,5,5,0,item contains no task content
+DM138,"Construct an original example, proof, or model related to proof techniques.",proof techniques,T6,Create,6,6,1,
+DM139,State the definition of a key concept from number theory.,number theory,T1,Remember,1,1,1,
+DM140,Explain the main idea underlying recurrence relations.,recurrence relations,T2,Understand,2,2,1,
+DM141,Solve a problem using methods from finite automata.,finite automata,T3,Apply,3,3,0,item contains no task content
+DM142,Analyze the structure or properties of an example in partially ordered sets.,partially ordered sets,T4,Analyze,4,4,0,item contains no task content
+DM143,Determine whether a proposed solution in equivalence relations is correct and justify your answer.,equivalence relations,T5,Evaluate,5,5,0,item contains no task content
+DM144,"Construct an original example, proof, or model related to algorithms.",algorithms,T6,Create,6,6,1,
+DM145,State the definition of a key concept from propositional logic.,propositional logic,T1,Remember,1,1,1,
+DM146,Explain the main idea underlying predicate logic.,predicate logic,T2,Understand,2,2,1,
+DM147,Solve a problem using methods from set theory.,set theory,T3,Apply,3,3,0,item contains no task content
+DM148,Analyze the structure or properties of an example in relations.,relations,T4,Analyze,4,4,0,item contains no task content
+DM149,Determine whether a proposed solution in functions is correct and justify your answer.,functions,T5,Evaluate,5,5,0,item contains no task content
+DM150,"Construct an original example, proof, or model related to combinatorics.",combinatorics,T6,Create,6,6,1,
+DM151,State the definition of a key concept from graph theory.,graph theory,T1,Remember,1,1,1,
+DM152,Explain the main idea underlying trees.,trees,T2,Understand,2,2,1,
+DM153,Solve a problem using methods from Boolean algebra.,Boolean algebra,T3,Apply,3,3,0,item contains no task content
+DM154,Analyze the structure or properties of an example in proof techniques.,proof techniques,T4,Analyze,4,4,0,item contains no task content
+DM155,Determine whether a proposed solution in number theory is correct and justify your answer.,number theory,T5,Evaluate,5,5,0,item contains no task content
+DM156,"Construct an original example, proof, or model related to recurrence relations.",recurrence relations,T6,Create,6,6,1,
+DM157,State the definition of a key concept from finite automata.,finite automata,T1,Remember,1,1,1,
+DM158,Explain the main idea underlying partially ordered sets.,partially ordered sets,T2,Understand,2,2,1,
+DM159,Solve a problem using methods from equivalence relations.,equivalence relations,T3,Apply,3,3,0,item contains no task content
+DM160,Analyze the structure or properties of an example in algorithms.,algorithms,T4,Analyze,4,4,0,item contains no task content
+DM161,Determine whether a proposed solution in propositional logic is correct and justify your answer.,propositional logic,T5,Evaluate,5,5,0,item contains no task content
+DM162,"Construct an original example, proof, or model related to predicate logic.",predicate logic,T6,Create,6,6,1,
+DM163,State the definition of a key concept from set theory.,set theory,T1,Remember,1,1,1,
+DM164,Explain the main idea underlying relations.,relations,T2,Understand,2,2,1,
+DM165,Solve a problem using methods from functions.,functions,T3,Apply,3,3,0,item contains no task content
+DM166,Analyze the structure or properties of an example in combinatorics.,combinatorics,T4,Analyze,4,4,0,item contains no task content
+DM167,Determine whether a proposed solution in graph theory is correct and justify your answer.,graph theory,T5,Evaluate,5,5,0,item contains no task content
+DM168,"Construct an original example, proof, or model related to trees.",trees,T6,Create,6,6,1,
+DM169,State the definition of a key concept from Boolean algebra.,Boolean algebra,T1,Remember,1,1,1,
+DM170,Explain the main idea underlying proof techniques.,proof techniques,T2,Understand,2,2,1,
+DM171,Solve a problem using methods from number theory.,number theory,T3,Apply,3,3,0,item contains no task content
+DM172,Analyze the structure or properties of an example in recurrence relations.,recurrence relations,T4,Analyze,4,4,0,item contains no task content
+DM173,Determine whether a proposed solution in finite automata is correct and justify your answer.,finite automata,T5,Evaluate,5,5,0,item contains no task content
+DM174,"Construct an original example, proof, or model related to partially ordered sets.",partially ordered sets,T6,Create,6,6,1,
+DM175,State the definition of a key concept from equivalence relations.,equivalence relations,T1,Remember,1,1,1,
+DM176,Explain the main idea underlying algorithms.,algorithms,T2,Understand,2,2,1,
+DM177,Solve a problem using methods from propositional logic.,propositional logic,T3,Apply,3,3,0,item contains no task content
+DM178,Analyze the structure or properties of an example in predicate logic.,predicate logic,T4,Analyze,4,4,0,item contains no task content
+DM179,Determine whether a proposed solution in set theory is correct and justify your answer.,set theory,T5,Evaluate,5,5,0,item contains no task content
+DM180,"Construct an original example, proof, or model related to relations.",relations,T6,Create,6,6,1,
+DM181,State the definition of a key concept from functions.,functions,T1,Remember,1,1,1,
+DM182,Explain the main idea underlying combinatorics.,combinatorics,T2,Understand,2,2,1,
+DM183,Solve a problem using methods from graph theory.,graph theory,T3,Apply,3,3,0,item contains no task content
+DM184,Analyze the structure or properties of an example in trees.,trees,T4,Analyze,4,4,0,item contains no task content
+DM185,Determine whether a proposed solution in Boolean algebra is correct and justify your answer.,Boolean algebra,T5,Evaluate,5,5,0,item contains no task content
+DM186,"Construct an original example, proof, or model related to proof techniques.",proof techniques,T6,Create,6,6,1,
+DM187,State the definition of a key concept from number theory.,number theory,T1,Remember,1,1,1,
+DM188,Explain the main idea underlying recurrence relations.,recurrence relations,T2,Understand,2,2,1,
+DM189,Solve a problem using methods from finite automata.,finite automata,T3,Apply,3,3,0,item contains no task content
+DM190,Analyze the structure or properties of an example in partially ordered sets.,partially ordered sets,T4,Analyze,4,4,0,item contains no task content
+DM191,Determine whether a proposed solution in equivalence relations is correct and justify your answer.,equivalence relations,T5,Evaluate,5,5,0,item contains no task content
+DM192,"Construct an original example, proof, or model related to algorithms.",algorithms,T6,Create,6,6,1,
+DM193,State the definition of a key concept from propositional logic.,propositional logic,T1,Remember,1,1,1,
+DM194,Explain the main idea underlying predicate logic.,predicate logic,T2,Understand,2,2,1,
+DM195,Solve a problem using methods from set theory.,set theory,T3,Apply,3,3,0,item contains no task content
+DM196,Analyze the structure or properties of an example in relations.,relations,T4,Analyze,4,4,0,item contains no task content
+DM197,Determine whether a proposed solution in functions is correct and justify your answer.,functions,T5,Evaluate,5,5,0,item contains no task content
+DM198,"Construct an original example, proof, or model related to combinatorics.",combinatorics,T6,Create,6,6,1,
+DM199,State the definition of a key concept from graph theory.,graph theory,T1,Remember,1,1,1,
+DM200,Explain the main idea underlying trees.,trees,T2,Understand,2,2,1,
+DM201,Solve a problem using methods from Boolean algebra.,Boolean algebra,T3,Apply,3,3,0,item contains no task content
+DM202,Analyze the structure or properties of an example in proof techniques.,proof techniques,T4,Analyze,4,4,0,item contains no task content
+DM203,Determine whether a proposed solution in number theory is correct and justify your answer.,number theory,T5,Evaluate,5,5,0,item contains no task content
+DM204,"Construct an original example, proof, or model related to recurrence relations.",recurrence relations,T6,Create,6,6,1,
+DM205,State the definition of a key concept from finite automata.,finite automata,T1,Remember,1,1,1,
+DM206,Explain the main idea underlying partially ordered sets.,partially ordered sets,T2,Understand,2,2,1,
+DM207,Solve a problem using methods from equivalence relations.,equivalence relations,T3,Apply,3,3,0,item contains no task content
+DM208,Analyze the structure or properties of an example in algorithms.,algorithms,T4,Analyze,4,4,0,item contains no task content
+DM209,Determine whether a proposed solution in propositional logic is correct and justify your answer.,propositional logic,T5,Evaluate,5,5,0,item contains no task content
+DM210,"Construct an original example, proof, or model related to predicate logic.",predicate logic,T6,Create,6,6,1,
+DM211,State the definition of a key concept from set theory.,set theory,T1,Remember,1,1,1,
+DM212,Explain the main idea underlying relations.,relations,T2,Understand,2,2,1,
+DM213,Solve a problem using methods from functions.,functions,T3,Apply,3,3,0,item contains no task content
+DM214,Analyze the structure or properties of an example in combinatorics.,combinatorics,T4,Analyze,4,4,0,item contains no task content
+DM215,Determine whether a proposed solution in graph theory is correct and justify your answer.,graph theory,T5,Evaluate,5,5,0,item contains no task content
+DM216,"Construct an original example, proof, or model related to trees.",trees,T6,Create,6,6,1,
+DM217,State the definition of a key concept from Boolean algebra.,Boolean algebra,T1,Remember,1,1,1,
+DM218,Explain the main idea underlying proof techniques.,proof techniques,T2,Understand,2,2,1,
+DM219,Solve a problem using methods from number theory.,number theory,T3,Apply,3,3,0,item contains no task content
+DM220,Analyze the structure or properties of an example in recurrence relations.,recurrence relations,T4,Analyze,4,4,0,item contains no task content
+DM221,Determine whether a proposed solution in finite automata is correct and justify your answer.,finite automata,T5,Evaluate,5,5,0,item contains no task content
+DM222,"Construct an original example, proof, or model related to partially ordered sets.",partially ordered sets,T6,Create,6,6,1,
+DM223,State the definition of a key concept from equivalence relations.,equivalence relations,T1,Remember,1,1,1,
+DM224,Explain the main idea underlying algorithms.,algorithms,T2,Understand,2,2,1,
+DM225,Solve a problem using methods from propositional logic.,propositional logic,T3,Apply,3,3,0,item contains no task content
+DM226,Analyze the structure or properties of an example in predicate logic.,predicate logic,T4,Analyze,4,4,0,item contains no task content
+DM227,Determine whether a proposed solution in set theory is correct and justify your answer.,set theory,T5,Evaluate,5,5,0,item contains no task content
+DM228,"Construct an original example, proof, or model related to relations.",relations,T6,Create,6,6,1,
+DM229,State the definition of a key concept from functions.,functions,T1,Remember,1,1,1,
+DM230,Explain the main idea underlying combinatorics.,combinatorics,T2,Understand,2,2,1,
+DM231,Solve a problem using methods from graph theory.,graph theory,T3,Apply,3,3,0,item contains no task content
+DM232,Analyze the structure or properties of an example in trees.,trees,T4,Analyze,4,4,0,item contains no task content
+DM233,Determine whether a proposed solution in Boolean algebra is correct and justify your answer.,Boolean algebra,T5,Evaluate,5,5,0,item contains no task content
+DM234,"Construct an original example, proof, or model related to proof techniques.",proof techniques,T6,Create,6,6,1,
+DM235,State the definition of a key concept from number theory.,number theory,T1,Remember,1,1,1,
+DM236,Explain the main idea underlying recurrence relations.,recurrence relations,T2,Understand,2,2,1,
+DM237,Solve a problem using methods from finite automata.,finite automata,T3,Apply,3,3,0,item contains no task content
+DM238,Analyze the structure or properties of an example in partially ordered sets.,partially ordered sets,T4,Analyze,4,4,0,item contains no task content
+DM239,Determine whether a proposed solution in equivalence relations is correct and justify your answer.,equivalence relations,T5,Evaluate,5,5,0,item contains no task content
+DM240,"Construct an original example, proof, or model related to algorithms.",algorithms,T6,Create,6,6,1,
+DM241,State the definition of a key concept from propositional logic.,propositional logic,T1,Remember,1,1,1,
+DM242,Explain the main idea underlying predicate logic.,predicate logic,T2,Understand,2,2,1,
+DM243,Solve a problem using methods from set theory.,set theory,T3,Apply,3,3,0,item contains no task content
+DM244,Analyze the structure or properties of an example in relations.,relations,T4,Analyze,4,4,0,item contains no task content
+DM245,Determine whether a proposed solution in functions is correct and justify your answer.,functions,T5,Evaluate,5,5,0,item contains no task content
+DM246,"Construct an original example, proof, or model related to combinatorics.",combinatorics,T6,Create,6,6,1,
+DM247,State the definition of a key concept from graph theory.,graph theory,T1,Remember,1,1,1,
+DM248,Explain the main idea underlying trees.,trees,T2,Understand,2,2,1,
+DM249,Solve a problem using methods from Boolean algebra.,Boolean algebra,T3,Apply,3,3,0,item contains no task content
+DM250,Analyze the structure or properties of an example in proof techniques.,proof techniques,T4,Analyze,4,4,0,item contains no task content
+DM251,Determine whether a proposed solution in number theory is correct and justify your answer.,number theory,T5,Evaluate,5,5,0,item contains no task content
+DM252,"Construct an original example, proof, or model related to recurrence relations.",recurrence relations,T6,Create,6,6,1,
+DM253,State the definition of a key concept from finite automata.,finite automata,T1,Remember,1,1,1,
+DM254,Explain the main idea underlying partially ordered sets.,partially ordered sets,T2,Understand,2,2,1,
+DM255,Solve a problem using methods from equivalence relations.,equivalence relations,T3,Apply,3,3,0,item contains no task content
+DM256,Analyze the structure or properties of an example in algorithms.,algorithms,T4,Analyze,4,4,0,item contains no task content
+DM257,Determine whether a proposed solution in propositional logic is correct and justify your answer.,propositional logic,T5,Evaluate,5,5,0,item contains no task content
+DM258,"Construct an original example, proof, or model related to predicate logic.",predicate logic,T6,Create,6,6,1,
+DM259,State the definition of a key concept from set theory.,set theory,T1,Remember,1,1,1,
+DM260,Explain the main idea underlying relations.,relations,T2,Understand,2,2,1,
+DM261,Solve a problem using methods from functions.,functions,T3,Apply,3,3,0,item contains no task content
+DM262,Analyze the structure or properties of an example in combinatorics.,combinatorics,T4,Analyze,4,4,0,item contains no task content
+DM263,Determine whether a proposed solution in graph theory is correct and justify your answer.,graph theory,T5,Evaluate,5,5,0,item contains no task content
+DM264,"Construct an original example, proof, or model related to trees.",trees,T6,Create,6,6,1,
+DM265,State the definition of a key concept from Boolean algebra.,Boolean algebra,T1,Remember,1,1,1,
+DM266,Explain the main idea underlying proof techniques.,proof techniques,T2,Understand,2,2,1,
+DM267,Solve a problem using methods from number theory.,number theory,T3,Apply,3,3,0,item contains no task content
+DM268,Analyze the structure or properties of an example in recurrence relations.,recurrence relations,T4,Analyze,4,4,0,item contains no task content
+DM269,Determine whether a proposed solution in finite automata is correct and justify your answer.,finite automata,T5,Evaluate,5,5,0,item contains no task content
+DM270,"Construct an original example, proof, or model related to partially ordered sets.",partially ordered sets,T6,Create,6,6,1,
+DM271,State the definition of a key concept from equivalence relations.,equivalence relations,T1,Remember,1,1,1,
+DM272,Explain the main idea underlying algorithms.,algorithms,T2,Understand,2,2,1,
+DM273,Solve a problem using methods from propositional logic.,propositional logic,T3,Apply,3,3,0,item contains no task content
+DM274,Analyze the structure or properties of an example in predicate logic.,predicate logic,T4,Analyze,4,4,0,item contains no task content
+DM275,Determine whether a proposed solution in set theory is correct and justify your answer.,set theory,T5,Evaluate,5,5,0,item contains no task content
+DM276,"Construct an original example, proof, or model related to relations.",relations,T6,Create,6,6,1,
+DM277,State the definition of a key concept from functions.,functions,T1,Remember,1,1,1,
+DM278,Explain the main idea underlying combinatorics.,combinatorics,T2,Understand,2,2,1,
+DM279,Solve a problem using methods from graph theory.,graph theory,T3,Apply,3,3,0,item contains no task content
+DM280,Analyze the structure or properties of an example in trees.,trees,T4,Analyze,4,4,0,item contains no task content
+DM281,Determine whether a proposed solution in Boolean algebra is correct and justify your answer.,Boolean algebra,T5,Evaluate,5,5,0,item contains no task content
+DM282,"Construct an original example, proof, or model related to proof techniques.",proof techniques,T6,Create,6,6,1,
+DM283,State the definition of a key concept from number theory.,number theory,T1,Remember,1,1,1,
+DM284,Explain the main idea underlying recurrence relations.,recurrence relations,T2,Understand,2,2,1,
+DM285,Solve a problem using methods from finite automata.,finite automata,T3,Apply,3,3,0,item contains no task content
+DM286,Analyze the structure or properties of an example in partially ordered sets.,partially ordered sets,T4,Analyze,4,4,0,item contains no task content
+DM287,Determine whether a proposed solution in equivalence relations is correct and justify your answer.,equivalence relations,T5,Evaluate,5,5,0,item contains no task content
+DM288,"Construct an original example, proof, or model related to algorithms.",algorithms,T6,Create,6,6,1,
+DM289,State the definition of a key concept from propositional logic.,propositional logic,T1,Remember,1,1,1,
+DM290,Explain the main idea underlying predicate logic.,predicate logic,T2,Understand,2,2,1,
+DM291,Solve a problem using methods from set theory.,set theory,T3,Apply,3,3,0,item contains no task content
+DM292,Analyze the structure or properties of an example in relations.,relations,T4,Analyze,4,4,0,item contains no task content
+DM293,Determine whether a proposed solution in functions is correct and justify your answer.,functions,T5,Evaluate,5,5,0,item contains no task content
+DM294,"Construct an original example, proof, or model related to combinatorics.",combinatorics,T6,Create,6,6,1,
+DM295,State the definition of a key concept from graph theory.,graph theory,T1,Remember,1,1,1,
+DM296,Explain the main idea underlying trees.,trees,T2,Understand,2,2,1,
+DM297,Solve a problem using methods from Boolean algebra.,Boolean algebra,T3,Apply,3,3,0,item contains no task content
+DM298,Analyze the structure or properties of an example in proof techniques.,proof techniques,T4,Analyze,4,4,0,item contains no task content
+DM299,Determine whether a proposed solution in number theory is correct and justify your answer.,number theory,T5,Evaluate,5,5,0,item contains no task content
+DM300,"Construct an original example, proof, or model related to recurrence relations.",recurrence relations,T6,Create,6,6,1,
+DM301,State the definition of a key concept from finite automata.,finite automata,T1,Remember,1,1,1,
+DM302,Explain the main idea underlying partially ordered sets.,partially ordered sets,T2,Understand,2,2,1,
+DM303,Solve a problem using methods from equivalence relations.,equivalence relations,T3,Apply,3,3,0,item contains no task content
+DM304,Analyze the structure or properties of an example in algorithms.,algorithms,T4,Analyze,4,4,0,item contains no task content
+DM305,Determine whether a proposed solution in propositional logic is correct and justify your answer.,propositional logic,T5,Evaluate,5,5,0,item contains no task content
+DM306,"Construct an original example, proof, or model related to predicate logic.",predicate logic,T6,Create,6,6,1,
+DM307,State the definition of a key concept from set theory.,set theory,T1,Remember,1,1,1,
+DM308,Explain the main idea underlying relations.,relations,T2,Understand,2,2,1,
+DM309,Solve a problem using methods from functions.,functions,T3,Apply,3,3,0,item contains no task content
+DM310,Analyze the structure or properties of an example in combinatorics.,combinatorics,T4,Analyze,4,4,0,item contains no task content
+DM311,Determine whether a proposed solution in graph theory is correct and justify your answer.,graph theory,T5,Evaluate,5,5,0,item contains no task content
+DM312,"Construct an original example, proof, or model related to trees.",trees,T6,Create,6,6,1,
+DM313,State the definition of a key concept from Boolean algebra.,Boolean algebra,T1,Remember,1,1,1,
+DM314,Explain the main idea underlying proof techniques.,proof techniques,T2,Understand,2,2,1,
+DM315,Solve a problem using methods from number theory.,number theory,T3,Apply,3,3,0,item contains no task content
+DM316,Analyze the structure or properties of an example in recurrence relations.,recurrence relations,T4,Analyze,4,4,0,item contains no task content
+DM317,Determine whether a proposed solution in finite automata is correct and justify your answer.,finite automata,T5,Evaluate,5,5,0,item contains no task content
+DM318,"Construct an original example, proof, or model related to partially ordered sets.",partially ordered sets,T6,Create,6,6,1,
+DM319,State the definition of a key concept from equivalence relations.,equivalence relations,T1,Remember,1,1,1,
+DM320,Explain the main idea underlying algorithms.,algorithms,T2,Understand,2,2,1,
+DM321,Solve a problem using methods from propositional logic.,propositional logic,T3,Apply,3,3,0,item contains no task content
+DM322,Analyze the structure or properties of an example in predicate logic.,predicate logic,T4,Analyze,4,4,0,item contains no task content
+DM323,Determine whether a proposed solution in set theory is correct and justify your answer.,set theory,T5,Evaluate,5,5,0,item contains no task content
+DM324,"Construct an original example, proof, or model related to relations.",relations,T6,Create,6,6,1,
+DM325,State the definition of a key concept from functions.,functions,T1,Remember,1,1,1,
+DM326,Explain the main idea underlying combinatorics.,combinatorics,T2,Understand,2,2,1,
+DM327,Solve a problem using methods from graph theory.,graph theory,T3,Apply,3,3,0,item contains no task content
+DM328,Analyze the structure or properties of an example in trees.,trees,T4,Analyze,4,4,0,item contains no task content
+DM329,Determine whether a proposed solution in Boolean algebra is correct and justify your answer.,Boolean algebra,T5,Evaluate,5,5,0,item contains no task content
+DM330,"Construct an original example, proof, or model related to proof techniques.",proof techniques,T6,Create,6,6,1,
+DM331,State the definition of a key concept from number theory.,number theory,T1,Remember,1,1,1,
+DM332,Explain the main idea underlying recurrence relations.,recurrence relations,T2,Understand,2,2,1,
+DM333,Solve a problem using methods from finite automata.,finite automata,T3,Apply,3,3,0,item contains no task content
+DM334,Analyze the structure or properties of an example in partially ordered sets.,partially ordered sets,T4,Analyze,4,4,0,item contains no task content
+DM335,Determine whether a proposed solution in equivalence relations is correct and justify your answer.,equivalence relations,T5,Evaluate,5,5,0,item contains no task content
+DM336,"Construct an original example, proof, or model related to algorithms.",algorithms,T6,Create,6,6,1,
+DM337,State the definition of a key concept from propositional logic.,propositional logic,T1,Remember,1,1,1,
+DM338,Explain the main idea underlying predicate logic.,predicate logic,T2,Understand,2,2,1,
+DM339,Solve a problem using methods from set theory.,set theory,T3,Apply,3,3,0,item contains no task content
+DM340,Analyze the structure or properties of an example in relations.,relations,T4,Analyze,4,4,0,item contains no task content
+DM341,Determine whether a proposed solution in functions is correct and justify your answer.,functions,T5,Evaluate,5,5,0,item contains no task content
+DM342,"Construct an original example, proof, or model related to combinatorics.",combinatorics,T6,Create,6,6,1,
+DM343,State the definition of a key concept from graph theory.,graph theory,T1,Remember,1,1,1,
+DM344,Explain the main idea underlying trees.,trees,T2,Understand,2,2,1,
+DM345,Solve a problem using methods from Boolean algebra.,Boolean algebra,T3,Apply,3,3,0,item contains no task content
+DM346,Analyze the structure or properties of an example in proof techniques.,proof techniques,T4,Analyze,4,4,0,item contains no task content
+DM347,Determine whether a proposed solution in number theory is correct and justify your answer.,number theory,T5,Evaluate,5,5,0,item contains no task content
+DM348,"Construct an original example, proof, or model related to recurrence relations.",recurrence relations,T6,Create,6,6,1,
+DM349,State the definition of a key concept from finite automata.,finite automata,T1,Remember,1,1,1,
+DM350,Explain the main idea underlying partially ordered sets.,partially ordered sets,T2,Understand,2,2,1,
+DM351,Solve a problem using methods from equivalence relations.,equivalence relations,T3,Apply,3,3,0,item contains no task content
+DM352,Analyze the structure or properties of an example in algorithms.,algorithms,T4,Analyze,4,4,0,item contains no task content
+DM353,Determine whether a proposed solution in propositional logic is correct and justify your answer.,propositional logic,T5,Evaluate,5,5,0,item contains no task content
+DM354,"Construct an original example, proof, or model related to predicate logic.",predicate logic,T6,Create,6,6,1,
+DM355,State the definition of a key concept from set theory.,set theory,T1,Remember,1,1,1,
+DM356,Explain the main idea underlying relations.,relations,T2,Understand,2,2,1,
+DM357,Solve a problem using methods from functions.,functions,T3,Apply,3,3,0,item contains no task content
+DM358,Analyze the structure or properties of an example in combinatorics.,combinatorics,T4,Analyze,4,4,0,item contains no task content
+DM359,Determine whether a proposed solution in graph theory is correct and justify your answer.,graph theory,T5,Evaluate,5,5,0,item contains no task content
+DM360,"Construct an original example, proof, or model related to trees.",trees,T6,Create,6,6,1,
+DM361,State the definition of a key concept from Boolean algebra.,Boolean algebra,T1,Remember,1,1,1,
+DM362,Explain the main idea underlying proof techniques.,proof techniques,T2,Understand,2,2,1,
+DM363,Solve a problem using methods from number theory.,number theory,T3,Apply,3,3,0,item contains no task content
+DM364,Analyze the structure or properties of an example in recurrence relations.,recurrence relations,T4,Analyze,4,4,0,item contains no task content
+DM365,Determine whether a proposed solution in finite automata is correct and justify your answer.,finite automata,T5,Evaluate,5,5,0,item contains no task content
+DM366,"Construct an original example, proof, or model related to partially ordered sets.",partially ordered sets,T6,Create,6,6,1,
+DM367,State the definition of a key concept from equivalence relations.,equivalence relations,T1,Remember,1,1,1,
+DM368,Explain the main idea underlying algorithms.,algorithms,T2,Understand,2,2,1,
+DM369,Solve a problem using methods from propositional logic.,propositional logic,T3,Apply,3,3,0,item contains no task content
+DM370,Analyze the structure or properties of an example in predicate logic.,predicate logic,T4,Analyze,4,4,0,item contains no task content
+DM371,Determine whether a proposed solution in set theory is correct and justify your answer.,set theory,T5,Evaluate,5,5,0,item contains no task content
+DM372,"Construct an original example, proof, or model related to relations.",relations,T6,Create,6,6,1,
+DM373,State the definition of a key concept from functions.,functions,T1,Remember,1,1,1,
+DM374,Explain the main idea underlying combinatorics.,combinatorics,T2,Understand,2,2,1,
+DM375,Solve a problem using methods from graph theory.,graph theory,T3,Apply,3,3,0,item contains no task content
+DM376,Analyze the structure or properties of an example in trees.,trees,T4,Analyze,4,4,0,item contains no task content
+DM377,Determine whether a proposed solution in Boolean algebra is correct and justify your answer.,Boolean algebra,T5,Evaluate,5,5,0,item contains no task content
+DM378,"Construct an original example, proof, or model related to proof techniques.",proof techniques,T6,Create,6,6,1,
+DM379,State the definition of a key concept from number theory.,number theory,T1,Remember,1,1,1,
+DM380,Explain the main idea underlying recurrence relations.,recurrence relations,T2,Understand,2,2,1,
+DM381,Solve a problem using methods from finite automata.,finite automata,T3,Apply,3,3,0,item contains no task content
+DM382,Analyze the structure or properties of an example in partially ordered sets.,partially ordered sets,T4,Analyze,4,4,0,item contains no task content
+DM383,Determine whether a proposed solution in equivalence relations is correct and justify your answer.,equivalence relations,T5,Evaluate,5,5,0,item contains no task content
+DM384,"Construct an original example, proof, or model related to algorithms.",algorithms,T6,Create,6,6,1,
+DM385,State the definition of a key concept from propositional logic.,propositional logic,T1,Remember,1,1,1,
+DM386,Explain the main idea underlying predicate logic.,predicate logic,T2,Understand,2,2,1,
+DM387,Solve a problem using methods from set theory.,set theory,T3,Apply,3,3,0,item contains no task content
+DM388,Analyze the structure or properties of an example in relations.,relations,T4,Analyze,4,4,0,item contains no task content
+DM389,Determine whether a proposed solution in functions is correct and justify your answer.,functions,T5,Evaluate,5,5,0,item contains no task content
+DM390,"Construct an original example, proof, or model related to combinatorics.",combinatorics,T6,Create,6,6,1,
+DM391,State the definition of a key concept from graph theory.,graph theory,T1,Remember,1,1,1,
+DM392,Explain the main idea underlying trees.,trees,T2,Understand,2,2,1,
+DM393,Solve a problem using methods from Boolean algebra.,Boolean algebra,T3,Apply,3,3,0,item contains no task content
+DM394,Analyze the structure or properties of an example in proof techniques.,proof techniques,T4,Analyze,4,4,0,item contains no task content
+DM395,Determine whether a proposed solution in number theory is correct and justify your answer.,number theory,T5,Evaluate,5,5,0,item contains no task content
+DM396,"Construct an original example, proof, or model related to recurrence relations.",recurrence relations,T6,Create,6,6,1,
+DM397,State the definition of a key concept from finite automata.,finite automata,T1,Remember,1,1,1,
+DM398,Explain the main idea underlying partially ordered sets.,partially ordered sets,T2,Understand,2,2,1,
+DM399,Solve a problem using methods from equivalence relations.,equivalence relations,T3,Apply,3,3,0,item contains no task content
+DM400,Analyze the structure or properties of an example in algorithms.,algorithms,T4,Analyze,4,4,0,item contains no task content
+DM401,Determine whether a proposed solution in propositional logic is correct and justify your answer.,propositional logic,T5,Evaluate,5,5,0,item contains no task content
+DM402,"Construct an original example, proof, or model related to predicate logic.",predicate logic,T6,Create,6,6,1,
+DM403,State the definition of a key concept from set theory.,set theory,T1,Remember,1,1,1,
+DM404,Explain the main idea underlying relations.,relations,T2,Understand,2,2,1,
+DM405,Solve a problem using methods from functions.,functions,T3,Apply,3,3,0,item contains no task content
+DM406,Analyze the structure or properties of an example in combinatorics.,combinatorics,T4,Analyze,4,4,0,item contains no task content
+DM407,Determine whether a proposed solution in graph theory is correct and justify your answer.,graph theory,T5,Evaluate,5,5,0,item contains no task content
+DM408,"Construct an original example, proof, or model related to trees.",trees,T6,Create,6,6,1,
+DM409,State the definition of a key concept from Boolean algebra.,Boolean algebra,T1,Remember,1,1,1,
+DM410,Explain the main idea underlying proof techniques.,proof techniques,T2,Understand,2,2,1,
+DM411,Solve a problem using methods from number theory.,number theory,T3,Apply,3,3,0,item contains no task content
+DM412,Analyze the structure or properties of an example in recurrence relations.,recurrence relations,T4,Analyze,4,4,0,item contains no task content
+DM413,Determine whether a proposed solution in finite automata is correct and justify your answer.,finite automata,T5,Evaluate,5,5,0,item contains no task content
+DM414,"Construct an original example, proof, or model related to partially ordered sets.",partially ordered sets,T6,Create,6,6,1,
+DM415,State the definition of a key concept from equivalence relations.,equivalence relations,T1,Remember,1,1,1,
+DM416,Explain the main idea underlying algorithms.,algorithms,T2,Understand,2,2,1,
+DM417,Solve a problem using methods from propositional logic.,propositional logic,T3,Apply,3,3,0,item contains no task content
+DM418,Analyze the structure or properties of an example in predicate logic.,predicate logic,T4,Analyze,4,4,0,item contains no task content
+DM419,Determine whether a proposed solution in set theory is correct and justify your answer.,set theory,T5,Evaluate,5,5,0,item contains no task content
+DM420,"Construct an original example, proof, or model related to relations.",relations,T6,Create,6,6,1,
+DM421,State the definition of a key concept from functions.,functions,T1,Remember,1,1,1,
+DM422,Explain the main idea underlying combinatorics.,combinatorics,T2,Understand,2,2,1,
+DM423,Solve a problem using methods from graph theory.,graph theory,T3,Apply,3,3,0,item contains no task content
+DM424,Analyze the structure or properties of an example in trees.,trees,T4,Analyze,4,4,0,item contains no task content
+DM425,Determine whether a proposed solution in Boolean algebra is correct and justify your answer.,Boolean algebra,T5,Evaluate,5,5,0,item contains no task content
+DM426,"Construct an original example, proof, or model related to proof techniques.",proof techniques,T6,Create,6,6,1,
+DM427,State the definition of a key concept from number theory.,number theory,T1,Remember,1,1,1,
+DM428,Explain the main idea underlying recurrence relations.,recurrence relations,T2,Understand,2,2,1,
+DM429,Solve a problem using methods from finite automata.,finite automata,T3,Apply,3,3,0,item contains no task content
+DM430,Analyze the structure or properties of an example in partially ordered sets.,partially ordered sets,T4,Analyze,4,4,0,item contains no task content
+DM431,Determine whether a proposed solution in equivalence relations is correct and justify your answer.,equivalence relations,T5,Evaluate,5,5,0,item contains no task content
+DM432,"Construct an original example, proof, or model related to algorithms.",algorithms,T6,Create,6,6,1,
+DM433,State the definition of a key concept from propositional logic.,propositional logic,T1,Remember,1,1,1,
+DM434,Explain the main idea underlying predicate logic.,predicate logic,T2,Understand,2,2,1,
+DM435,Solve a problem using methods from set theory.,set theory,T3,Apply,3,3,0,item contains no task content
+DM436,Analyze the structure or properties of an example in relations.,relations,T4,Analyze,4,4,0,item contains no task content
+DM437,Determine whether a proposed solution in functions is correct and justify your answer.,functions,T5,Evaluate,5,5,0,item contains no task content
+DM438,"Construct an original example, proof, or model related to combinatorics.",combinatorics,T6,Create,6,6,1,
+DM439,State the definition of a key concept from graph theory.,graph theory,T1,Remember,1,1,1,
+DM440,Explain the main idea underlying trees.,trees,T2,Understand,2,2,1,
+DM441,Solve a problem using methods from Boolean algebra.,Boolean algebra,T3,Apply,3,3,0,item contains no task content
+DM442,Analyze the structure or properties of an example in proof techniques.,proof techniques,T4,Analyze,4,4,0,item contains no task content
+DM443,Determine whether a proposed solution in number theory is correct and justify your answer.,number theory,T5,Evaluate,5,5,0,item contains no task content
+DM444,"Construct an original example, proof, or model related to recurrence relations.",recurrence relations,T6,Create,6,6,1,
+DM445,State the definition of a key concept from finite automata.,finite automata,T1,Remember,1,1,1,
+DM446,Explain the main idea underlying partially ordered sets.,partially ordered sets,T2,Understand,2,2,1,
+DM447,Solve a problem using methods from equivalence relations.,equivalence relations,T3,Apply,3,3,0,item contains no task content
+DM448,Analyze the structure or properties of an example in algorithms.,algorithms,T4,Analyze,4,4,0,item contains no task content
+DM449,Determine whether a proposed solution in propositional logic is correct and justify your answer.,propositional logic,T5,Evaluate,5,5,0,item contains no task content
+DM450,"Construct an original example, proof, or model related to predicate logic.",predicate logic,T6,Create,6,6,1,
+DM451,State the definition of a key concept from set theory.,set theory,T1,Remember,1,1,1,
+DM452,Explain the main idea underlying relations.,relations,T2,Understand,2,2,1,
+DM453,Solve a problem using methods from functions.,functions,T3,Apply,3,3,0,item contains no task content
+DM454,Analyze the structure or properties of an example in combinatorics.,combinatorics,T4,Analyze,4,4,0,item contains no task content
+DM455,Determine whether a proposed solution in graph theory is correct and justify your answer.,graph theory,T5,Evaluate,5,5,0,item contains no task content
+DM456,"Construct an original example, proof, or model related to trees.",trees,T6,Create,6,6,1,
+DM457,State the definition of a key concept from Boolean algebra.,Boolean algebra,T1,Remember,1,1,1,
+DM458,Explain the main idea underlying proof techniques.,proof techniques,T2,Understand,2,2,1,
+DM459,Solve a problem using methods from number theory.,number theory,T3,Apply,3,3,0,item contains no task content
+DM460,Analyze the structure or properties of an example in recurrence relations.,recurrence relations,T4,Analyze,4,4,0,item contains no task content
+DM461,Determine whether a proposed solution in finite automata is correct and justify your answer.,finite automata,T5,Evaluate,5,5,0,item contains no task content
+DM462,"Construct an original example, proof, or model related to partially ordered sets.",partially ordered sets,T6,Create,6,6,1,
+DM463,State the definition of a key concept from equivalence relations.,equivalence relations,T1,Remember,1,1,1,
+DM464,Explain the main idea underlying algorithms.,algorithms,T2,Understand,2,2,1,
+DM465,Solve a problem using methods from propositional logic.,propositional logic,T3,Apply,3,3,0,item contains no task content
+DM466,Analyze the structure or properties of an example in predicate logic.,predicate logic,T4,Analyze,4,4,0,item contains no task content
+DM467,Determine whether a proposed solution in set theory is correct and justify your answer.,set theory,T5,Evaluate,5,5,0,item contains no task content
+DM468,"Construct an original example, proof, or model related to relations.",relations,T6,Create,6,6,1,
+DM469,State the definition of a key concept from functions.,functions,T1,Remember,1,1,1,
+DM470,Explain the main idea underlying combinatorics.,combinatorics,T2,Understand,2,2,1,
+DM471,Solve a problem using methods from graph theory.,graph theory,T3,Apply,3,3,0,item contains no task content
+DM472,Analyze the structure or properties of an example in trees.,trees,T4,Analyze,4,4,0,item contains no task content
+DM473,Determine whether a proposed solution in Boolean algebra is correct and justify your answer.,Boolean algebra,T5,Evaluate,5,5,0,item contains no task content
+DM474,"Construct an original example, proof, or model related to proof techniques.",proof techniques,T6,Create,6,6,1,
+DM475,State the definition of a key concept from number theory.,number theory,T1,Remember,1,1,1,
+DM476,Explain the main idea underlying recurrence relations.,recurrence relations,T2,Understand,2,2,1,
+DM477,Solve a problem using methods from finite automata.,finite automata,T3,Apply,3,3,0,item contains no task content
+DM478,Analyze the structure or properties of an example in partially ordered sets.,partially ordered sets,T4,Analyze,4,4,0,item contains no task content
+DM479,Determine whether a proposed solution in equivalence relations is correct and justify your answer.,equivalence relations,T5,Evaluate,5,5,0,item contains no task content
+DM480,"Construct an original example, proof, or model related to algorithms.",algorithms,T6,Create,6,6,1,
+DM481,State the definition of a key concept from propositional logic.,propositional logic,T1,Remember,1,1,1,
+DM482,Explain the main idea underlying predicate logic.,predicate logic,T2,Understand,2,2,1,
+DM483,Solve a problem using methods from set theory.,set theory,T3,Apply,3,3,0,item contains no task content
+DM484,Analyze the structure or properties of an example in relations.,relations,T4,Analyze,4,4,0,item contains no task content
+DM485,Determine whether a proposed solution in functions is correct and justify your answer.,functions,T5,Evaluate,5,5,0,item contains no task content
+DM486,"Construct an original example, proof, or model related to combinatorics.",combinatorics,T6,Create,6,6,1,
+DM487,State the definition of a key concept from graph theory.,graph theory,T1,Remember,1,1,1,
+DM488,Explain the main idea underlying trees.,trees,T2,Understand,2,2,1,
+DM489,Solve a problem using methods from Boolean algebra.,Boolean algebra,T3,Apply,3,3,0,item contains no task content
+DM490,Analyze the structure or properties of an example in proof techniques.,proof techniques,T4,Analyze,4,4,0,item contains no task content
+DM491,Determine whether a proposed solution in number theory is correct and justify your answer.,number theory,T5,Evaluate,5,5,0,item contains no task content
+DM492,"Construct an original example, proof, or model related to recurrence relations.",recurrence relations,T6,Create,6,6,1,
+DM493,State the definition of a key concept from finite automata.,finite automata,T1,Remember,1,1,1,
+DM494,Explain the main idea underlying partially ordered sets.,partially ordered sets,T2,Understand,2,2,1,
+DM495,Solve a problem using methods from equivalence relations.,equivalence relations,T3,Apply,3,3,0,item contains no task content
+DM496,Analyze the structure or properties of an example in algorithms.,algorithms,T4,Analyze,4,4,0,item contains no task content
+DM497,Determine whether a proposed solution in propositional logic is correct and justify your answer.,propositional logic,T5,Evaluate,5,5,0,item contains no task content
+DM498,"Construct an original example, proof, or model related to predicate logic.",predicate logic,T6,Create,6,6,1,
+DM499,State the definition of a key concept from set theory.,set theory,T1,Remember,1,1,1,
+DM500,Explain the main idea underlying relations.,relations,T2,Understand,2,2,1,

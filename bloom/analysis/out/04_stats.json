@@ -1,0 +1,257 @@
+{
+  "rater_agreement": {
+    "fleiss_kappa_3_raters": 0.9115,
+    "pairwise": {
+      "y_vs_M": {
+        "kappa": 0.93,
+        "kappa_w": 0.9499,
+        "kappa_ci95": [
+          0.9049,
+          0.9549
+        ],
+        "agreement": 0.9417
+      },
+      "y_vs_R": {
+        "kappa": 0.9,
+        "kappa_w": 0.945,
+        "kappa_ci95": [
+          0.87,
+          0.93
+        ],
+        "agreement": 0.9167
+      },
+      "M_vs_R": {
+        "kappa": 0.9046,
+        "kappa_w": 0.9377,
+        "kappa_ci95": [
+          0.8754,
+          0.9322
+        ],
+        "agreement": 0.9208
+      }
+    }
+  },
+  "label_error": {
+    "n_mismatch": 28,
+    "rate": 0.0583,
+    "ci95": [
+      0.0407,
+      0.083
+    ],
+    "n_overstated": 23,
+    "n_understated": 5,
+    "sign_test_p": 0.000456,
+    "mean_signed_bias": -0.0833,
+    "wilcoxon_p": 0.000672
+  },
+  "label_error_by_level": [
+    {
+      "level": "Remember",
+      "err_rate": 0.0375,
+      "ci95": [
+        0.0128,
+        0.1045
+      ],
+      "p_raw": 0.384,
+      "p_bh": 0.384
+    },
+    {
+      "level": "Understand",
+      "err_rate": 0.0125,
+      "ci95": [
+        0.0022,
+        0.0675
+      ],
+      "p_raw": 0.0554,
+      "p_bh": 0.0664
+    },
+    {
+      "level": "Apply",
+      "err_rate": 0.0125,
+      "ci95": [
+        0.0022,
+        0.0675
+      ],
+      "p_raw": 0.0554,
+      "p_bh": 0.0664
+    },
+    {
+      "level": "Analyze",
+      "err_rate": 0.1375,
+      "ci95": [
+        0.0785,
+        0.2297
+      ],
+      "p_raw": 0.000934,
+      "p_bh": 0.0028
+    },
+    {
+      "level": "Evaluate",
+      "err_rate": 0.0,
+      "ci95": [
+        0.0,
+        0.0458
+      ],
+      "p_raw": 0.0147,
+      "p_bh": 0.0295
+    },
+    {
+      "level": "Create",
+      "err_rate": 0.15,
+      "ci95": [
+        0.0879,
+        0.2441
+      ],
+      "p_raw": 0.000127,
+      "p_bh": 0.000762
+    }
+  ],
+  "mcnemar": [
+    {
+      "name": "SVM vs first-word rule",
+      "table": [
+        [
+          409,
+          24
+        ],
+        [
+          31,
+          16
+        ]
+      ],
+      "statistic": 24.0,
+      "p": 0.419,
+      "acc_a": 0.9021,
+      "acc_b": 0.9167
+    },
+    {
+      "name": "SVM vs SVM with first word masked",
+      "table": [
+        [
+          324,
+          109
+        ],
+        [
+          12,
+          35
+        ]
+      ],
+      "statistic": 12.0,
+      "p": 9.87e-21,
+      "acc_a": 0.9021,
+      "acc_b": 0.7
+    }
+  ],
+  "model_ci": {
+    "acc": 0.9021,
+    "acc_ci95": [
+      0.8722,
+      0.9256
+    ],
+    "acc_ci95_boot": [
+      0.875,
+      0.9292
+    ],
+    "qwk_ci95_boot": [
+      0.9087,
+      0.9602
+    ],
+    "f1_ci95_boot": [
+      0.8757,
+      0.9279
+    ],
+    "baseline_acc": 0.9167,
+    "baseline_ci95": [
+      0.8885,
+      0.9382
+    ]
+  },
+  "transfer_gap": {
+    "gen2orig": 0.978,
+    "orig2gen": 0.4146,
+    "z": 19.278,
+    "p": 8.21e-83,
+    "cv_on_gen": 0.9021,
+    "drop_cv_to_transfer": 0.4875
+  },
+  "ordinal_model": {
+    "pseudo_r2": 0.2991,
+    "llr_p": 2.53e-107,
+    "coef": {
+      "n_words": {
+        "beta": 1.16,
+        "p": 1.31e-24,
+        "OR": 3.189
+      },
+      "has_digits": {
+        "beta": 0.388,
+        "p": 0.0504,
+        "OR": 1.474
+      },
+      "has_math": {
+        "beta": -0.081,
+        "p": 0.721,
+        "OR": 0.922
+      },
+      "has_why": {
+        "beta": -0.372,
+        "p": 0.181,
+        "OR": 0.689
+      },
+      "has_justify": {
+        "beta": 3.167,
+        "p": 1.44e-19,
+        "OR": 23.728
+      },
+      "has_design": {
+        "beta": 6.302,
+        "p": 7.72e-38,
+        "OR": 545.688
+      }
+    }
+  },
+  "orig_dataset": {
+    "effective_n": 48,
+    "nominal_n": 500,
+    "design_effect_note": "each wording is repeated 10-11 times; 48 independent observations, not 500",
+    "cv_accuracy_group": 1.0,
+    "cv_accuracy_random": 1.0,
+    "underspecified_share": 0.498,
+    "acc_ci95_at_effective_n": [
+      0.9259,
+      1.0
+    ]
+  },
+  "learning_curve": {
+    "train_sizes": [
+      76,
+      115,
+      153,
+      192,
+      230,
+      268,
+      326,
+      384
+    ],
+    "test_acc_mean": [
+      0.2917,
+      0.3146,
+      0.4437,
+      0.4625,
+      0.5792,
+      0.7125,
+      0.875,
+      0.8938
+    ],
+    "test_acc_sd": [
+      0.0132,
+      0.0102,
+      0.0193,
+      0.0193,
+      0.037,
+      0.0193,
+      0.0316,
+      0.0375
+    ]
+  }
+}
