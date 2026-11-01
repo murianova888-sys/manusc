@@ -1,0 +1,85 @@
+id,source_number,question,topic,template_id,action_verb,bloom_level,bloom_level_id,group_id,is_duplicate,n_copies,split
+DM002,2,Explain the main idea underlying predicate logic.,predicate logic,T2,explain,Understand,2,G02,0,11,train
+DM008,8,Explain the main idea underlying trees.,trees,T2,explain,Understand,2,G08,0,11,train
+DM014,14,Explain the main idea underlying partially ordered sets.,partially ordered sets,T2,explain,Understand,2,G14,0,11,test
+DM020,20,Explain the main idea underlying relations.,relations,T2,explain,Understand,2,G20,0,11,train
+DM026,26,Explain the main idea underlying proof techniques.,proof techniques,T2,explain,Understand,2,G26,0,10,train
+DM032,32,Explain the main idea underlying algorithms.,algorithms,T2,explain,Understand,2,G32,0,10,validation
+DM038,38,Explain the main idea underlying combinatorics.,combinatorics,T2,explain,Understand,2,G38,0,10,train
+DM044,44,Explain the main idea underlying recurrence relations.,recurrence relations,T2,explain,Understand,2,G44,0,10,train
+DM050,50,Explain the main idea underlying predicate logic.,predicate logic,T2,explain,Understand,2,G02,1,11,train
+DM056,56,Explain the main idea underlying trees.,trees,T2,explain,Understand,2,G08,1,11,train
+DM062,62,Explain the main idea underlying partially ordered sets.,partially ordered sets,T2,explain,Understand,2,G14,1,11,test
+DM068,68,Explain the main idea underlying relations.,relations,T2,explain,Understand,2,G20,1,11,train
+DM074,74,Explain the main idea underlying proof techniques.,proof techniques,T2,explain,Understand,2,G26,1,10,train
+DM080,80,Explain the main idea underlying algorithms.,algorithms,T2,explain,Understand,2,G32,1,10,validation
+DM086,86,Explain the main idea underlying combinatorics.,combinatorics,T2,explain,Understand,2,G38,1,10,train
+DM092,92,Explain the main idea underlying recurrence relations.,recurrence relations,T2,explain,Understand,2,G44,1,10,train
+DM098,98,Explain the main idea underlying predicate logic.,predicate logic,T2,explain,Understand,2,G02,1,11,train
+DM104,104,Explain the main idea underlying trees.,trees,T2,explain,Understand,2,G08,1,11,train
+DM110,110,Explain the main idea underlying partially ordered sets.,partially ordered sets,T2,explain,Understand,2,G14,1,11,test
+DM116,116,Explain the main idea underlying relations.,relations,T2,explain,Understand,2,G20,1,11,train
+DM122,122,Explain the main idea underlying proof techniques.,proof techniques,T2,explain,Understand,2,G26,1,10,train
+DM128,128,Explain the main idea underlying algorithms.,algorithms,T2,explain,Understand,2,G32,1,10,validation
+DM134,134,Explain the main idea underlying combinatorics.,combinatorics,T2,explain,Understand,2,G38,1,10,train
+DM140,140,Explain the main idea underlying recurrence relations.,recurrence relations,T2,explain,Understand,2,G44,1,10,train
+DM146,146,Explain the main idea underlying predicate logic.,predicate logic,T2,explain,Understand,2,G02,1,11,train
+DM152,152,Explain the main idea underlying trees.,trees,T2,explain,Understand,2,G08,1,11,train
+DM158,158,Explain the main idea underlying partially ordered sets.,partially ordered sets,T2,explain,Understand,2,G14,1,11,test
+DM164,164,Explain the main idea underlying relations.,relations,T2,explain,Understand,2,G20,1,11,train
+DM170,170,Explain the main idea underlying proof techniques.,proof techniques,T2,explain,Understand,2,G26,1,10,train
+DM176,176,Explain the main idea underlying algorithms.,algorithms,T2,explain,Understand,2,G32,1,10,validation
+DM182,182,Explain the main idea underlying combinatorics.,combinatorics,T2,explain,Understand,2,G38,1,10,train
+DM188,188,Explain the main idea underlying recurrence relations.,recurrence relations,T2,explain,Understand,2,G44,1,10,train
+DM194,194,Explain the main idea underlying predicate logic.,predicate logic,T2,explain,Understand,2,G02,1,11,train
+DM200,200,Explain the main idea underlying trees.,trees,T2,explain,Understand,2,G08,1,11,train
+DM206,206,Explain the main idea underlying partially ordered sets.,partially ordered sets,T2,explain,Understand,2,G14,1,11,test
+DM212,212,Explain the main idea underlying relations.,relations,T2,explain,Understand,2,G20,1,11,train
+DM218,218,Explain the main idea underlying proof techniques.,proof techniques,T2,explain,Understand,2,G26,1,10,train
+DM224,224,Explain the main idea underlying algorithms.,algorithms,T2,explain,Understand,2,G32,1,10,validation
+DM230,230,Explain the main idea underlying combinatorics.,combinatorics,T2,explain,Understand,2,G38,1,10,train
+DM236,236,Explain the main idea underlying recurrence relations.,recurrence relations,T2,explain,Understand,2,G44,1,10,train
+DM242,242,Explain the main idea underlying predicate logic.,predicate logic,T2,explain,Understand,2,G02,1,11,train
+DM248,248,Explain the main idea underlying trees.,trees,T2,explain,Understand,2,G08,1,11,train
+DM254,254,Explain the main idea underlying partially ordered sets.,partially ordered sets,T2,explain,Understand,2,G14,1,11,test
+DM260,260,Explain the main idea underlying relations.,relations,T2,explain,Understand,2,G20,1,11,train
+DM266,266,Explain the main idea underlying proof techniques.,proof techniques,T2,explain,Understand,2,G26,1,10,train
+DM272,272,Explain the main idea underlying algorithms.,algorithms,T2,explain,Understand,2,G32,1,10,validation
+DM278,278,Explain the main idea underlying combinatorics.,combinatorics,T2,explain,Understand,2,G38,1,10,train
+DM284,284,Explain the main idea underlying recurrence relations.,recurrence relations,T2,explain,Understand,2,G44,1,10,train
+DM290,290,Explain the main idea underlying predicate logic.,predicate logic,T2,explain,Understand,2,G02,1,11,train
+DM296,296,Explain the main idea underlying trees.,trees,T2,explain,Understand,2,G08,1,11,train
+DM302,302,Explain the main idea underlying partially ordered sets.,partially ordered sets,T2,explain,Understand,2,G14,1,11,test
+DM308,308,Explain the main idea underlying relations.,relations,T2,explain,Understand,2,G20,1,11,train
+DM314,314,Explain the main idea underlying proof techniques.,proof techniques,T2,explain,Understand,2,G26,1,10,train
+DM320,320,Explain the main idea underlying algorithms.,algorithms,T2,explain,Understand,2,G32,1,10,validation
+DM326,326,Explain the main idea underlying combinatorics.,combinatorics,T2,explain,Understand,2,G38,1,10,train
+DM332,332,Explain the main idea underlying recurrence relations.,recurrence relations,T2,explain,Understand,2,G44,1,10,train
+DM338,338,Explain the main idea underlying predicate logic.,predicate logic,T2,explain,Understand,2,G02,1,11,train
+DM344,344,Explain the main idea underlying trees.,trees,T2,explain,Understand,2,G08,1,11,train
+DM350,350,Explain the main idea underlying partially ordered sets.,partially ordered sets,T2,explain,Understand,2,G14,1,11,test
+DM356,356,Explain the main idea underlying relations.,relations,T2,explain,Understand,2,G20,1,11,train
+DM362,362,Explain the main idea underlying proof techniques.,proof techniques,T2,explain,Understand,2,G26,1,10,train
+DM368,368,Explain the main idea underlying algorithms.,algorithms,T2,explain,Understand,2,G32,1,10,validation
+DM374,374,Explain the main idea underlying combinatorics.,combinatorics,T2,explain,Understand,2,G38,1,10,train
+DM380,380,Explain the main idea underlying recurrence relations.,recurrence relations,T2,explain,Understand,2,G44,1,10,train
+DM386,386,Explain the main idea underlying predicate logic.,predicate logic,T2,explain,Understand,2,G02,1,11,train
+DM392,392,Explain the main idea underlying trees.,trees,T2,explain,Understand,2,G08,1,11,train
+DM398,398,Explain the main idea underlying partially ordered sets.,partially ordered sets,T2,explain,Understand,2,G14,1,11,test
+DM404,404,Explain the main idea underlying relations.,relations,T2,explain,Understand,2,G20,1,11,train
+DM410,410,Explain the main idea underlying proof techniques.,proof techniques,T2,explain,Understand,2,G26,1,10,train
+DM416,416,Explain the main idea underlying algorithms.,algorithms,T2,explain,Understand,2,G32,1,10,validation
+DM422,422,Explain the main idea underlying combinatorics.,combinatorics,T2,explain,Understand,2,G38,1,10,train
+DM428,428,Explain the main idea underlying recurrence relations.,recurrence relations,T2,explain,Understand,2,G44,1,10,train
+DM434,434,Explain the main idea underlying predicate logic.,predicate logic,T2,explain,Understand,2,G02,1,11,train
+DM440,440,Explain the main idea underlying trees.,trees,T2,explain,Understand,2,G08,1,11,train
+DM446,446,Explain the main idea underlying partially ordered sets.,partially ordered sets,T2,explain,Understand,2,G14,1,11,test
+DM452,452,Explain the main idea underlying relations.,relations,T2,explain,Understand,2,G20,1,11,train
+DM458,458,Explain the main idea underlying proof techniques.,proof techniques,T2,explain,Understand,2,G26,1,10,train
+DM464,464,Explain the main idea underlying algorithms.,algorithms,T2,explain,Understand,2,G32,1,10,validation
+DM470,470,Explain the main idea underlying combinatorics.,combinatorics,T2,explain,Understand,2,G38,1,10,train
+DM476,476,Explain the main idea underlying recurrence relations.,recurrence relations,T2,explain,Understand,2,G44,1,10,train
+DM482,482,Explain the main idea underlying predicate logic.,predicate logic,T2,explain,Understand,2,G02,1,11,train
+DM488,488,Explain the main idea underlying trees.,trees,T2,explain,Understand,2,G08,1,11,train
+DM494,494,Explain the main idea underlying partially ordered sets.,partially ordered sets,T2,explain,Understand,2,G14,1,11,test
+DM500,500,Explain the main idea underlying relations.,relations,T2,explain,Understand,2,G20,1,11,train

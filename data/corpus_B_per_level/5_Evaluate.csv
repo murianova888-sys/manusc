@@ -1,0 +1,84 @@
+id,source_number,question,topic,template_id,action_verb,bloom_level,bloom_level_id,group_id,is_duplicate,n_copies,split
+DM005,5,Determine whether a proposed solution in functions is correct and justify your answer.,functions,T5,determine,Evaluate,5,G05,0,11,validation
+DM011,11,Determine whether a proposed solution in number theory is correct and justify your answer.,number theory,T5,determine,Evaluate,5,G11,0,11,train
+DM017,17,Determine whether a proposed solution in propositional logic is correct and justify your answer.,propositional logic,T5,determine,Evaluate,5,G17,0,11,train
+DM023,23,Determine whether a proposed solution in graph theory is correct and justify your answer.,graph theory,T5,determine,Evaluate,5,G23,0,10,train
+DM029,29,Determine whether a proposed solution in finite automata is correct and justify your answer.,finite automata,T5,determine,Evaluate,5,G29,0,10,train
+DM035,35,Determine whether a proposed solution in set theory is correct and justify your answer.,set theory,T5,determine,Evaluate,5,G35,0,10,train
+DM041,41,Determine whether a proposed solution in Boolean algebra is correct and justify your answer.,Boolean algebra,T5,determine,Evaluate,5,G41,0,10,train
+DM047,47,Determine whether a proposed solution in equivalence relations is correct and justify your answer.,equivalence relations,T5,determine,Evaluate,5,G47,0,10,test
+DM053,53,Determine whether a proposed solution in functions is correct and justify your answer.,functions,T5,determine,Evaluate,5,G05,1,11,validation
+DM059,59,Determine whether a proposed solution in number theory is correct and justify your answer.,number theory,T5,determine,Evaluate,5,G11,1,11,train
+DM065,65,Determine whether a proposed solution in propositional logic is correct and justify your answer.,propositional logic,T5,determine,Evaluate,5,G17,1,11,train
+DM071,71,Determine whether a proposed solution in graph theory is correct and justify your answer.,graph theory,T5,determine,Evaluate,5,G23,1,10,train
+DM077,77,Determine whether a proposed solution in finite automata is correct and justify your answer.,finite automata,T5,determine,Evaluate,5,G29,1,10,train
+DM083,83,Determine whether a proposed solution in set theory is correct and justify your answer.,set theory,T5,determine,Evaluate,5,G35,1,10,train
+DM089,89,Determine whether a proposed solution in Boolean algebra is correct and justify your answer.,Boolean algebra,T5,determine,Evaluate,5,G41,1,10,train
+DM095,95,Determine whether a proposed solution in equivalence relations is correct and justify your answer.,equivalence relations,T5,determine,Evaluate,5,G47,1,10,test
+DM101,101,Determine whether a proposed solution in functions is correct and justify your answer.,functions,T5,determine,Evaluate,5,G05,1,11,validation
+DM107,107,Determine whether a proposed solution in number theory is correct and justify your answer.,number theory,T5,determine,Evaluate,5,G11,1,11,train
+DM113,113,Determine whether a proposed solution in propositional logic is correct and justify your answer.,propositional logic,T5,determine,Evaluate,5,G17,1,11,train
+DM119,119,Determine whether a proposed solution in graph theory is correct and justify your answer.,graph theory,T5,determine,Evaluate,5,G23,1,10,train
+DM125,125,Determine whether a proposed solution in finite automata is correct and justify your answer.,finite automata,T5,determine,Evaluate,5,G29,1,10,train
+DM131,131,Determine whether a proposed solution in set theory is correct and justify your answer.,set theory,T5,determine,Evaluate,5,G35,1,10,train
+DM137,137,Determine whether a proposed solution in Boolean algebra is correct and justify your answer.,Boolean algebra,T5,determine,Evaluate,5,G41,1,10,train
+DM143,143,Determine whether a proposed solution in equivalence relations is correct and justify your answer.,equivalence relations,T5,determine,Evaluate,5,G47,1,10,test
+DM149,149,Determine whether a proposed solution in functions is correct and justify your answer.,functions,T5,determine,Evaluate,5,G05,1,11,validation
+DM155,155,Determine whether a proposed solution in number theory is correct and justify your answer.,number theory,T5,determine,Evaluate,5,G11,1,11,train
+DM161,161,Determine whether a proposed solution in propositional logic is correct and justify your answer.,propositional logic,T5,determine,Evaluate,5,G17,1,11,train
+DM167,167,Determine whether a proposed solution in graph theory is correct and justify your answer.,graph theory,T5,determine,Evaluate,5,G23,1,10,train
+DM173,173,Determine whether a proposed solution in finite automata is correct and justify your answer.,finite automata,T5,determine,Evaluate,5,G29,1,10,train
+DM179,179,Determine whether a proposed solution in set theory is correct and justify your answer.,set theory,T5,determine,Evaluate,5,G35,1,10,train
+DM185,185,Determine whether a proposed solution in Boolean algebra is correct and justify your answer.,Boolean algebra,T5,determine,Evaluate,5,G41,1,10,train
+DM191,191,Determine whether a proposed solution in equivalence relations is correct and justify your answer.,equivalence relations,T5,determine,Evaluate,5,G47,1,10,test
+DM197,197,Determine whether a proposed solution in functions is correct and justify your answer.,functions,T5,determine,Evaluate,5,G05,1,11,validation
+DM203,203,Determine whether a proposed solution in number theory is correct and justify your answer.,number theory,T5,determine,Evaluate,5,G11,1,11,train
+DM209,209,Determine whether a proposed solution in propositional logic is correct and justify your answer.,propositional logic,T5,determine,Evaluate,5,G17,1,11,train
+DM215,215,Determine whether a proposed solution in graph theory is correct and justify your answer.,graph theory,T5,determine,Evaluate,5,G23,1,10,train
+DM221,221,Determine whether a proposed solution in finite automata is correct and justify your answer.,finite automata,T5,determine,Evaluate,5,G29,1,10,train
+DM227,227,Determine whether a proposed solution in set theory is correct and justify your answer.,set theory,T5,determine,Evaluate,5,G35,1,10,train
+DM233,233,Determine whether a proposed solution in Boolean algebra is correct and justify your answer.,Boolean algebra,T5,determine,Evaluate,5,G41,1,10,train
+DM239,239,Determine whether a proposed solution in equivalence relations is correct and justify your answer.,equivalence relations,T5,determine,Evaluate,5,G47,1,10,test
+DM245,245,Determine whether a proposed solution in functions is correct and justify your answer.,functions,T5,determine,Evaluate,5,G05,1,11,validation
+DM251,251,Determine whether a proposed solution in number theory is correct and justify your answer.,number theory,T5,determine,Evaluate,5,G11,1,11,train
+DM257,257,Determine whether a proposed solution in propositional logic is correct and justify your answer.,propositional logic,T5,determine,Evaluate,5,G17,1,11,train
+DM263,263,Determine whether a proposed solution in graph theory is correct and justify your answer.,graph theory,T5,determine,Evaluate,5,G23,1,10,train
+DM269,269,Determine whether a proposed solution in finite automata is correct and justify your answer.,finite automata,T5,determine,Evaluate,5,G29,1,10,train
+DM275,275,Determine whether a proposed solution in set theory is correct and justify your answer.,set theory,T5,determine,Evaluate,5,G35,1,10,train
+DM281,281,Determine whether a proposed solution in Boolean algebra is correct and justify your answer.,Boolean algebra,T5,determine,Evaluate,5,G41,1,10,train
+DM287,287,Determine whether a proposed solution in equivalence relations is correct and justify your answer.,equivalence relations,T5,determine,Evaluate,5,G47,1,10,test
+DM293,293,Determine whether a proposed solution in functions is correct and justify your answer.,functions,T5,determine,Evaluate,5,G05,1,11,validation
+DM299,299,Determine whether a proposed solution in number theory is correct and justify your answer.,number theory,T5,determine,Evaluate,5,G11,1,11,train
+DM305,305,Determine whether a proposed solution in propositional logic is correct and justify your answer.,propositional logic,T5,determine,Evaluate,5,G17,1,11,train
+DM311,311,Determine whether a proposed solution in graph theory is correct and justify your answer.,graph theory,T5,determine,Evaluate,5,G23,1,10,train
+DM317,317,Determine whether a proposed solution in finite automata is correct and justify your answer.,finite automata,T5,determine,Evaluate,5,G29,1,10,train
+DM323,323,Determine whether a proposed solution in set theory is correct and justify your answer.,set theory,T5,determine,Evaluate,5,G35,1,10,train
+DM329,329,Determine whether a proposed solution in Boolean algebra is correct and justify your answer.,Boolean algebra,T5,determine,Evaluate,5,G41,1,10,train
+DM335,335,Determine whether a proposed solution in equivalence relations is correct and justify your answer.,equivalence relations,T5,determine,Evaluate,5,G47,1,10,test
+DM341,341,Determine whether a proposed solution in functions is correct and justify your answer.,functions,T5,determine,Evaluate,5,G05,1,11,validation
+DM347,347,Determine whether a proposed solution in number theory is correct and justify your answer.,number theory,T5,determine,Evaluate,5,G11,1,11,train
+DM353,353,Determine whether a proposed solution in propositional logic is correct and justify your answer.,propositional logic,T5,determine,Evaluate,5,G17,1,11,train
+DM359,359,Determine whether a proposed solution in graph theory is correct and justify your answer.,graph theory,T5,determine,Evaluate,5,G23,1,10,train
+DM365,365,Determine whether a proposed solution in finite automata is correct and justify your answer.,finite automata,T5,determine,Evaluate,5,G29,1,10,train
+DM371,371,Determine whether a proposed solution in set theory is correct and justify your answer.,set theory,T5,determine,Evaluate,5,G35,1,10,train
+DM377,377,Determine whether a proposed solution in Boolean algebra is correct and justify your answer.,Boolean algebra,T5,determine,Evaluate,5,G41,1,10,train
+DM383,383,Determine whether a proposed solution in equivalence relations is correct and justify your answer.,equivalence relations,T5,determine,Evaluate,5,G47,1,10,test
+DM389,389,Determine whether a proposed solution in functions is correct and justify your answer.,functions,T5,determine,Evaluate,5,G05,1,11,validation
+DM395,395,Determine whether a proposed solution in number theory is correct and justify your answer.,number theory,T5,determine,Evaluate,5,G11,1,11,train
+DM401,401,Determine whether a proposed solution in propositional logic is correct and justify your answer.,propositional logic,T5,determine,Evaluate,5,G17,1,11,train
+DM407,407,Determine whether a proposed solution in graph theory is correct and justify your answer.,graph theory,T5,determine,Evaluate,5,G23,1,10,train
+DM413,413,Determine whether a proposed solution in finite automata is correct and justify your answer.,finite automata,T5,determine,Evaluate,5,G29,1,10,train
+DM419,419,Determine whether a proposed solution in set theory is correct and justify your answer.,set theory,T5,determine,Evaluate,5,G35,1,10,train
+DM425,425,Determine whether a proposed solution in Boolean algebra is correct and justify your answer.,Boolean algebra,T5,determine,Evaluate,5,G41,1,10,train
+DM431,431,Determine whether a proposed solution in equivalence relations is correct and justify your answer.,equivalence relations,T5,determine,Evaluate,5,G47,1,10,test
+DM437,437,Determine whether a proposed solution in functions is correct and justify your answer.,functions,T5,determine,Evaluate,5,G05,1,11,validation
+DM443,443,Determine whether a proposed solution in number theory is correct and justify your answer.,number theory,T5,determine,Evaluate,5,G11,1,11,train
+DM449,449,Determine whether a proposed solution in propositional logic is correct and justify your answer.,propositional logic,T5,determine,Evaluate,5,G17,1,11,train
+DM455,455,Determine whether a proposed solution in graph theory is correct and justify your answer.,graph theory,T5,determine,Evaluate,5,G23,1,10,train
+DM461,461,Determine whether a proposed solution in finite automata is correct and justify your answer.,finite automata,T5,determine,Evaluate,5,G29,1,10,train
+DM467,467,Determine whether a proposed solution in set theory is correct and justify your answer.,set theory,T5,determine,Evaluate,5,G35,1,10,train
+DM473,473,Determine whether a proposed solution in Boolean algebra is correct and justify your answer.,Boolean algebra,T5,determine,Evaluate,5,G41,1,10,train
+DM479,479,Determine whether a proposed solution in equivalence relations is correct and justify your answer.,equivalence relations,T5,determine,Evaluate,5,G47,1,10,test
+DM485,485,Determine whether a proposed solution in functions is correct and justify your answer.,functions,T5,determine,Evaluate,5,G05,1,11,validation
+DM491,491,Determine whether a proposed solution in number theory is correct and justify your answer.,number theory,T5,determine,Evaluate,5,G11,1,11,train
+DM497,497,Determine whether a proposed solution in propositional logic is correct and justify your answer.,propositional logic,T5,determine,Evaluate,5,G17,1,11,train
